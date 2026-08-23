@@ -1,499 +1,673 @@
-# Sponsor Prospect Research - Detailed Profiles
+# Prospect Research Details - 12 Target Sponsors
 **Issue**: CEL-35  
 **Phase**: 1 - Pitch Refinement  
-**Prepared**: Aug 23, 2026  
-**Status**: Ready for Aug 26 Outreach
+**Owner**: Business Development Lead  
+**Created**: Aug 24, 2026  
+**Status**: Ready for Aug 26-Sept 2 Discovery Outreach
 
 ---
 
-## Tier 1: High Priority Prospects (Contact First - Aug 26-27)
+## TIER 1: HIGH PRIORITY PROSPECTS (Contact First)
 
-### PROSPECT 1: Wilson Sporting Goods - Tennis Equipment Manufacturer
+### Prospect 1: Wilson Sporting Goods — Tennis Equipment Manufacturer
+**Category**: Sports & Fitness Equipment  
+**Priority Tier**: 1 (HIGHEST)
+
 **Company Profile**:
-- Official Name: Wilson Sporting Goods Company
-- Parent: Amer Sports Corporation (NYSE: AS)
-- Website: https://www.wilson.com
-- Headquarters: Chicago, IL
-- Industry: Sports Equipment Manufacturing
-- Key Product: Tennis Rackets, Balls, Apparel, Accessories
+- **Legal Name**: Wilson Sporting Goods Company
+- **Parent Company**: Amer Sports (NYSE: AS)
+- **Headquarters**: Chicago, IL, USA
+- **Industry**: Sporting Goods Manufacturing
+- **Key Product Lines**: Tennis rackets, balls, strings, apparel, equipment
+- **Website**: www.wilson.com
+- **LinkedIn**: /company/wilson-sporting-goods
 
-**Budget Profile**:
-- Estimated Annual Sponsorship Budget: $150k-$300k (strong tennis focus)
-- Primary Allocation: Tennis events, tournaments, grassroots partnerships
-- Budget Timeline: Annual planning Q3-Q4 2026
-- Decision Cycle: 6-8 weeks typical
-
-**Fit Analysis**:
-- ⭐⭐⭐⭐⭐ EXCELLENT FIT
-- Direct audience overlap (tennis players)
-- Proven partnership model with community initiatives
-- Product placement and testing opportunities
-- Professional player endorsement potential
-- Target Package: GOLD ($100k-$200k) or SILVER ($50k-$75k)
+**Sponsorship Profile**:
+- **Annual Sponsorship Budget**: $100,000-$250,000+
+- **Budget Cycle**: Annual Q3-Q4 planning
+- **Decision Timeline**: 8-10 weeks
+- **Typical Deal Size**: $50k-$200k
+- **Previous Sponsorships**: ATP, Grand Slams, college tennis programs, amateur tournaments
 
 **Contact Strategy**:
-- LinkedIn Search: "Wilson Sponsorship Manager Tennis"
-- Best Entry: Regional Sponsorship Manager (not corporate HQ)
-- Alternative: "Wilson Sports Marketing Manager"
-- Warm Intro: Look for mutual connections in tennis community
+- **Primary Contact Path**: LinkedIn → Regional Marketing Manager (Tennis)
+- **Search Query**: "Wilson Tennis Sponsorship Manager" + regional focus
+- **Decision Maker**: VP Sponsorships or Regional Director
+- **Access Level**: Moderate (corporate, but well-established partnership programs)
+- **Warm Intro**: Through local tennis club or regional tennis association if available
 
-**Key Contacts to Research**:
-- Sponsorship Manager - Tennis Division
-- Regional Sales Manager
-- Sports Marketing Director
-- Community Partnerships Lead
+**Strategic Fit Analysis**:
+- **Audience Overlap**: ⭐⭐⭐⭐⭐ Perfect (direct tennis player base)
+- **Budget Fit**: ⭐⭐⭐⭐⭐ Excellent ($100k-$250k range)
+- **Timeline Fit**: ⭐⭐⭐⭐ Strong (established sponsorship process)
+- **Strategic Value**: ⭐⭐⭐⭐⭐ HIGHEST (core sport, category leader)
+- **Overall Score**: 9.5/10
 
-**Pre-Call Research**:
-- Review recent Wilson sponsorships (search: Wilson Tennis sponsorships 2025-2026)
-- Identify their current community partnership focus
-- Note: Amer Sports recently acquired Wilson - new partnership opportunities possible
-- Check their social media for recent tennis community initiatives
+**Activation Opportunities**:
+1. Equipment sponsorship (rackets, balls, strings for events)
+2. Co-branded content (player profiles, training tips)
+3. Youth development program partnership
+4. Event signage and brand presence
+5. Player testing/demo events
+6. Ambassador relationships
 
-**Talking Points**:
-1. "Wilson has always been at the heart of the tennis community..."
-2. "We're building a platform where passionate tennis players congregate..."
-3. "Opportunity for product placement, grassroots testing, and community positioning..."
-4. "Your players could be featured in our ambassador program..."
+**Key Insights**:
+- #1 global tennis equipment manufacturer with established grassroots partnerships
+- Well-resourced sponsorship team with clear evaluation criteria
+- Values community engagement and talent development
+- Quick response time (established process)
 
-**Success Signals**:
-- Express interest in community reach and grassroots partnerships
-- Ask about audience demographics and engagement metrics
-- Show familiarity with community partnership model
-- Mention product placement or testing opportunities
+**Outreach Timing**: Aug 26-27  
+**Expected Response Rate**: 60-70% (established category)  
 
 ---
 
-### PROSPECT 2: Lululemon Athletica - Premium Athletic Apparel
+### Prospect 2: SwingVision — AI Sports Analytics Platform
+**Category**: Technology & Software  
+**Priority Tier**: 1 (HIGHEST)
+
 **Company Profile**:
-- Official Name: Lululemon Athletica Inc.
-- Stock: NASDAQ: LULU
-- Website: https://www.lululemon.com
-- Headquarters: Vancouver, BC Canada / Seattle operations
-- Industry: Premium Athletic Apparel & Wellness Lifestyle
-- Key Products: Yoga, Athletic Wear, Accessories
+- **Legal Name**: SwingVision Inc.
+- **Stage**: Series B (Growth-stage SaaS)
+- **Headquarters**: San Francisco, CA, USA
+- **Industry**: Sports Analytics, AI/ML, Video Analysis
+- **Key Product**: Real-time AI video analysis for tennis matches and training
+- **Website**: www.swingvision.com
+- **LinkedIn**: /company/swingvision
 
-**Budget Profile**:
-- Estimated Annual Sponsorship Budget: $100k-$250k (community focus strong)
-- Primary Allocation: Local community partnerships, grassroots wellness
-- Budget Timeline: Annual planning Q3-Q4 2026
-- Decision Cycle: 4-6 weeks (shorter than corporate giants)
-
-**Fit Analysis**:
-- ⭐⭐⭐⭐⭐ PERFECT FIT
-- Target demographic match (health-conscious, affluent)
-- Wellness and lifestyle alignment (core brand values)
-- Strong emphasis on local community partnerships
-- Co-branded event opportunities
-- Target Package: GOLD ($100k-$200k) or SILVER ($75k-$100k)
+**Sponsorship Profile**:
+- **Annual Sponsorship Budget**: $50,000-$150,000
+- **Budget Cycle**: Annual Q3-Q4 planning
+- **Decision Timeline**: 4-6 weeks (growth-stage speed)
+- **Typical Deal Size**: $25k-$100k (often structured as product + cash)
+- **Previous Sponsorships**: Professional tours, tennis academies, elite player sponsorships
 
 **Contact Strategy**:
-- **PRIORITY APPROACH**: Local-first strategy
-- Find local Lululemon store location
-- Request "Community Partnerships Manager" contact
-- Alternative: LinkedIn search "Lululemon Community Partnerships Lead"
-- Look for warm intro through local store manager
-- Reach out to Store Manager first, escalate to Community Relations
+- **Primary Contact Path**: LinkedIn → VP Partnerships or Business Development
+- **Search Query**: "SwingVision Business Development" or "VP Partnerships"
+- **Decision Maker**: VP Partnerships or CEO (accessible in growth-stage)
+- **Access Level**: High (growth-stage company, partnership-focused)
+- **Warm Intro**: Highly preferred through tennis connections or mutual contacts
 
-**Key Contacts to Research**:
-- Community Partnerships Manager (regional or local)
-- Store Manager (entry point)
-- Regional Community Relations Lead
-- Marketing Manager (local store)
+**Strategic Fit Analysis**:
+- **Audience Overlap**: ⭐⭐⭐⭐⭐ PERFECT (same audience)
+- **Budget Fit**: ⭐⭐⭐⭐⭐ Excellent ($50k-$150k range)
+- **Timeline Fit**: ⭐⭐⭐⭐⭐ FASTEST (4-6 week cycle)
+- **Strategic Value**: ⭐⭐⭐⭐⭐ HIGHEST (vertical integration opportunity)
+- **Overall Score**: 9.8/10
 
-**Pre-Call Research**:
-- Visit local Lululemon store, speak with store manager about community partnerships
-- Check their website for "Community Partnerships" or similar program
-- Review recent Lululemon partnerships (search: Lululemon community partnerships 2025-2026)
-- Note their emphasis on yoga, wellness, and health community
-- Research their "Lululemon Community" events and programs
+**Activation Opportunities**:
+1. **Product Integration**: Free SwingVision access for community members
+2. **Co-Development**: Match analysis features, stats tracking
+3. **Content Partnerships**: Highlight reels, training analytics
+4. **Co-Marketing**: Joint case studies, webinars
+5. **Player Development**: Analytics tools for training programs
+6. **Revenue Sharing**: Potential referral or licensing model
 
-**Talking Points**:
-1. "Lululemon has always been at the forefront of building wellness communities..."
-2. "We're creating a platform where athletes and wellness-focused individuals connect..."
-3. "Co-branded events and community programming opportunities..."
-4. "Ambassador program with community discounts..."
+**Key Insights**:
+- Growth-stage company hungry for strategic partnerships
+- Product-to-product fit is uniquely high (AI + community = powerful offering)
+- Quick decision cycle and flexible deal structure
+- Very accessible leadership team
 
-**Success Signals**:
-- Enthusiasm about local community programming
-- Interest in co-branded events and workshops
-- Questions about community engagement and demographics
-- Mention of collaborative partnership model vs. transactional
+**Outreach Timing**: Aug 26 (PRIORITY 1)  
+**Expected Response Rate**: 70-80% (partnership-focused)
 
 ---
 
-### PROSPECT 3: SwingVision - AI Sports Analytics Platform
+### Prospect 3: Lululemon Athletica — Premium Athletic Apparel
+**Category**: Consumer Brands (Apparel)  
+**Priority Tier**: 1 (HIGHEST)
+
 **Company Profile**:
-- Official Name: SwingVision Inc.
-- Funding: Series B (growth-stage SaaS)
-- Website: https://www.swingvision.com
-- Headquarters: San Francisco, CA
-- Industry: Sports Analytics & AI Video Analysis
-- Key Product: AI video analysis for tennis/sports matches
+- **Legal Name**: Lululemon Athletica Inc.
+- **Stock**: NASDAQ: LULU
+- **Headquarters**: Vancouver, BC (Seattle, WA operations)
+- **Industry**: Premium Athletic Apparel
+- **Key Markets**: Yoga, fitness, community wellness
+- **Website**: www.lululemon.com
+- **LinkedIn**: /company/lululemon-athletica
 
-**Budget Profile**:
-- Estimated Annual Sponsorship Budget: $75k-$200k (strategic partnerships)
-- Primary Allocation: Strategic tech partnerships and co-development
-- Budget Timeline: Q3-Q4 2026 planning
-- Decision Cycle: 4-6 weeks (faster than larger companies)
-
-**Fit Analysis**:
-- ⭐⭐⭐⭐⭐ PERFECT STRATEGIC FIT
-- HIGHEST vertical integration opportunity
-- Synergistic technology offerings
-- Co-development and feature integration potential
-- Network effect benefit (mutually amplifying)
-- Target Package: SILVER/GOLD ($100k-$150k+) with co-dev component
+**Sponsorship Profile**:
+- **Annual Sponsorship Budget**: $75,000-$200,000
+- **Budget Cycle**: Annual Q3-Q4 planning
+- **Decision Timeline**: 6-8 weeks
+- **Typical Deal Size**: $25k-$150k
+- **Previous Sponsorships**: Local community events, yoga studios, wellness programs, athletes
 
 **Contact Strategy**:
-- LinkedIn Search: "SwingVision VP Partnerships" or "Business Development"
-- Growth-stage company = more accessible
-- Look for warm intro from mutual connections
-- Direct outreach to VP Partnerships or CEO possible
-- Shorter decision cycle = faster response
+- **Primary Contact Path**: LOCAL FIRST → Local store Community Partnerships Manager
+- **Search Query**: "Lululemon Community Partnerships Manager" (your city)
+- **Decision Maker**: Local Community Relations Manager or Regional Director
+- **Access Level**: VERY HIGH (company emphasizes local partnerships)
+- **Warm Intro**: Direct visit to local store + introduction to GM
 
-**Key Contacts to Research**:
-- VP Partnerships or Business Development
-- CEO (accessible at Series B stage)
-- Product Manager (for co-dev conversations)
-- Head of Marketing or Community
+**Strategic Fit Analysis**:
+- **Audience Overlap**: ⭐⭐⭐⭐⭐ PERFECT (health/fitness/community)
+- **Budget Fit**: ⭐⭐⭐⭐⭐ Excellent ($75k-$200k)
+- **Timeline Fit**: ⭐⭐⭐⭐ Strong (established process)
+- **Strategic Value**: ⭐⭐⭐⭐⭐ HIGHEST (brand alignment, local focus)
+- **Overall Score**: 9.7/10
 
-**Pre-Call Research**:
-- Review SwingVision website for existing partnerships
-- Understand their product offerings and target market
-- Check their LinkedIn for recent partnership announcements
-- Look for Series B funding news (likely 2024-2025)
-- Identify their current market positioning
+**Activation Opportunities**:
+1. Co-branded community events and workshops
+2. Apparel sponsorship for community ambassadors
+3. Wellness content partnerships
+4. Student/youth athlete discounts
+5. Local event hosting and presence
+6. Co-branded social media and content
 
-**Talking Points**:
-1. "SwingVision's AI analysis capabilities + our community platform = incredible opportunity..."
-2. "We can drive massive user adoption of SwingVision for match analysis..."
-3. "Co-branded features and product integration..."
-4. "Strategic partnership opportunity vs. traditional sponsorship..."
+**Key Insights**:
+- Company philosophy emphasizes grassroots community partnerships
+- Strong local decision-making (less corporate gatekeeping)
+- Responsive to authentic community fit
+- Values brand alignment and community positioning
+- Growing tennis/sports wellness programs
 
-**Success Signals**:
-- Enthusiasm about feature integration and co-development
-- Questions about user base size and engagement
-- Interest in co-branded marketing or joint product features
-- Mention of strategic partnership model
-
-**NOTE**: This may be the highest-value prospect - emphasize tech integration opportunity, not just sponsorship.
+**Outreach Timing**: Aug 26-27 (LOCAL APPROACH)  
+**Expected Response Rate**: 60-75% (community-focused)
 
 ---
 
-### PROSPECT 4: Local Tennis Club / Fitness Center
-**Company Profile**:
-- **RESEARCH REQUIRED**: Identify 1-2 local tennis clubs or multi-sport fitness centers
-- Examples to search for:
-  - [Your City] Tennis Club
-  - [Your City] Racquet Club
-  - Local fitness centers with tennis courts
-  - Country clubs with tennis programs
-  
-**Budget Profile**:
-- Estimated Annual Sponsorship Budget: $20k-$60k (smaller, flexible)
-- Primary Allocation: Local community initiatives, membership engagement
-- Budget Timeline: Flexible/ongoing
-- Decision Cycle: 1-2 weeks (very fast)
+### Prospect 4: Local Tennis Club / Fitness Center
+**Category**: Local & Community  
+**Priority Tier**: 1 (HIGHEST)
 
-**Fit Analysis**:
-- ⭐⭐⭐⭐⭐ HIGHEST ENGAGEMENT VALUE
-- Direct community member overlap
-- Co-hosting and event partnership opportunities
-- Cross-promotion and member engagement
-- Trade/barter model common
-- Target Package: BRONZE/SILVER ($15k-$50k) with collaboration model
+**Company Profile**:
+- **Company Type**: Local tennis club, multi-sport fitness center, or country club
+- **Location**: [YOUR LOCAL AREA]
+- **Typical Characteristics**: 
+  - 200-1000+ members
+  - Multiple courts or facilities
+  - Established community presence
+  - Event hosting capacity
+  - Tournament and league programs
+
+**Sponsorship Profile**:
+- **Annual Sponsorship Budget**: $10,000-$50,000
+- **Budget Cycle**: Flexible/ongoing (often event-driven)
+- **Decision Timeline**: 2-4 weeks (entrepreneurial speed)
+- **Typical Deal Size**: $5k-$25k or trade/barter
+- **Previous Sponsorships**: Local businesses, instructors, equipment vendors
 
 **Contact Strategy**:
-- Direct phone call to Club Manager or General Manager
-- In-person meeting at club facility
-- Very accessible - entrepreneurial mindset
-- Quick decision-making process
+- **Primary Contact Path**: Direct call/visit → Club Manager or General Manager
+- **Decision Maker**: Owner, GM, or Marketing Director
+- **Access Level**: VERY HIGH (direct, entrepreneurial)
+- **Approach**: In-person visit + direct phone call highly effective
+- **Timing**: Weekday morning or lunch (avoid peak hours)
 
-**Key Contacts to Research**:
-- Club Manager or General Manager
-- Marketing/Community Relations Manager
-- Board Member (if applicable)
+**Strategic Fit Analysis**:
+- **Audience Overlap**: ⭐⭐⭐⭐⭐ PERFECT (shared members, direct overlap)
+- **Budget Fit**: ⭐⭐⭐⭐ Strong ($10k-$50k range)
+- **Timeline Fit**: ⭐⭐⭐⭐⭐ FASTEST (2-4 weeks)
+- **Strategic Value**: ⭐⭐⭐⭐⭐ HIGHEST (collaboration opportunity)
+- **Overall Score**: 9.2/10
 
-**Pre-Call Research**:
-- Visit the facility in person
-- Understand their current events and programming
-- Identify membership size and demographics
-- Research their current partnerships
-- Note their facility capabilities for events
+**Activation Opportunities**:
+1. Co-hosted events and tournaments
+2. Member cross-promotion and discounts
+3. Joint marketing and social media
+4. Collaborative content (tips, training)
+5. Facility partnerships for events
+6. Revenue sharing opportunities
 
-**Talking Points**:
-1. "We're creating a comprehensive tennis community platform..."
-2. "Opportunity for co-hosted events and member cross-promotion..."
-3. "Expanded reach and engagement for both our communities..."
+**Key Insights**:
+- Smallest individual budget but HIGHEST engagement value
+- Often prefer partnership/trade model vs. sponsorship
+- Member cross-marketing extremely effective
+- Quick decision-making, flexible deal structure
+- Often seeking new member acquisition
 
-**Success Signals**:
-- Enthusiasm about collaborative partnership
-- Interest in co-hosted events
-- Questions about member reach and engagement
-- Discussion of trade/collaboration model
+**Outreach Timing**: Aug 26 (IMMEDIATE)  
+**Expected Response Rate**: 80%+ (local, entrepreneurial)
 
 ---
 
-## Tier 2: Core Targets (Contact in Parallel - Aug 27-30)
+## TIER 2: CORE TARGETS (Contact in Parallel)
 
-### PROSPECT 5: CLIF Bar - Sports Nutrition Brand
+### Prospect 5: CLIF Bar — Sports Nutrition/Energy Bars
+**Category**: Health & Wellness Brands  
+**Priority Tier**: 2
+
 **Company Profile**:
-- Official Name: CLIF Bar & Company
-- Parent: Mondelez International (private division)
-- Website: https://www.clifbar.com
-- Headquarters: Emeryville, CA
-- Industry: Sports Nutrition & Energy Products
-- Key Products: Energy Bars, Protein Products, Recovery Foods
+- **Legal Name**: CLIF Bar & Company
+- **Parent Company**: Mondelez International (formerly privately held)
+- **Headquarters**: Emeryville, CA, USA
+- **Industry**: Sports Nutrition, Energy/Protein Bars
+- **Website**: www.clifbar.com
+- **LinkedIn**: /company/clif-bar
 
-**Budget Profile**:
-- Estimated Annual Sponsorship Budget: $50k-$150k
-- Primary Allocation: Athlete sponsorships, sports events, grassroots partnerships
-- Budget Timeline: Q3-Q4 2026
-- Decision Cycle: 6-8 weeks
-
-**Fit Analysis**:
-- ⭐⭐⭐⭐ STRONG FIT
-- Perfect demographic (athletes)
-- Grassroots partnership model alignment
-- Event sampling opportunities
-- Athlete testimonials and endorsements
+**Sponsorship Profile**:
+- **Annual Sponsorship Budget**: $30,000-$100,000
+- **Budget Cycle**: Annual Q3-Q4 planning
+- **Decision Timeline**: 6-8 weeks
+- **Typical Deal Size**: $20k-$75k
+- **Previous Sponsorships**: Cycling events, running races, adventure sports, outdoor events
 
 **Contact Strategy**:
-- LinkedIn Search: "CLIF Bar Sports Marketing Manager"
-- Look for "Community Partnerships Manager"
-- Alternative: Search "CLIF Bar Sponsorships"
-- Responsive to authentic grassroots partnerships
+- **Primary Contact Path**: LinkedIn → Sports Marketing Manager
+- **Search Query**: "CLIF Bar Sports Marketing" or "Community Partnerships Manager"
+- **Decision Maker**: Regional Sports Marketing Manager or Manager, Brand Partnerships
+- **Access Level**: Moderate-High (established but agile)
+- **Warm Intro**: Through sports/fitness contacts if available
 
-**Key Contacts**:
-- Sports Marketing Manager
-- Community Partnerships Lead
-- Regional Sales Manager
+**Strategic Fit Analysis**:
+- **Audience Overlap**: ⭐⭐⭐⭐ Strong (athletes, fitness enthusiasts)
+- **Budget Fit**: ⭐⭐⭐⭐ Strong ($30k-$100k)
+- **Timeline Fit**: ⭐⭐⭐⭐ Good (6-8 weeks)
+- **Strategic Value**: ⭐⭐⭐⭐ Strong (health/performance alignment)
+- **Overall Score**: 8.5/10
 
-**Pre-Call Research**:
-- Review recent CLIF Bar sponsorships
-- Check their social media for athlete partnerships
-- Understand their product positioning and target audience
-- Research their grassroots sponsorship approach
+**Activation Opportunities**:
+1. Event sampling and product stations
+2. Athlete testimonials and endorsements
+3. Recovery/nutrition content partnerships
+4. Tournament sponsorship and presence
+5. Co-branded social media
+6. Product bundling opportunities
 
-**Talking Points**:
-1. "CLIF Bar is all about fueling athletes..."
-2. "We're building a community of dedicated tennis players..."
-3. "Event sampling, athlete testimonials, and grassroots partnership opportunities..."
+**Outreach Timing**: Aug 27-28  
+**Expected Response Rate**: 50-60%
 
 ---
 
-### PROSPECT 6: Liquid IV - Premium Hydration Brand
+### Prospect 6: Liquid IV — Premium Hydration Beverage
+**Category**: Consumer Brands (Beverage)  
+**Priority Tier**: 2
+
 **Company Profile**:
-- Official Name: Liquid IV Hydration
-- Parent: PepsiCo (acquired 2024)
-- Website: https://www.liquid-iv.com
-- Headquarters: Santa Monica, CA
-- Industry: Sports Hydration & Wellness Beverages
-- Key Products: Electrolyte Hydration Drink Mix, Performance Beverages
+- **Legal Name**: Liquid IV Technologies Inc.
+- **Parent Company**: PepsiCo (acquired 2024)
+- **Headquarters**: Santa Monica, CA, USA
+- **Industry**: Sports Hydration, Wellness Drinks
+- **Website**: www.liquid-iv.com
+- **LinkedIn**: /company/liquid-iv
 
-**Budget Profile**:
-- Estimated Annual Sponsorship Budget: $75k-$200k (post-PepsiCo acquisition)
-- Primary Allocation: Sports events, athlete sponsorships, sampling programs
-- Budget Timeline: Q3-Q4 2026
-- Decision Cycle: 4-6 weeks
-
-**Fit Analysis**:
-- ⭐⭐⭐⭐ STRONG FIT
-- Perfect product-audience alignment (athletes need hydration)
-- Event sampling and activation opportunities
-- Athlete testimonials and endorsements
-- PepsiCo backing = more resources
+**Sponsorship Profile**:
+- **Annual Sponsorship Budget**: $50,000-$150,000
+- **Budget Cycle**: Annual Q3-Q4 planning
+- **Decision Timeline**: 6-8 weeks
+- **Typical Deal Size**: $30k-$120k
+- **Previous Sponsorships**: Athlete endorsements, fitness events, marathons, sports sponsorships
 
 **Contact Strategy**:
-- LinkedIn Search: "Liquid IV Sports Marketing Manager"
-- Look for "Liquid IV Partnerships Manager"
-- PepsiCo acquisition increases budget and access
-- Growth-focused brand = responsive to partnerships
+- **Primary Contact Path**: LinkedIn → Sports Marketing Manager
+- **Search Query**: "Liquid IV Sports Marketing Manager" or "Partnerships"
+- **Decision Maker**: Sports Marketing Manager or VP Partnerships
+- **Access Level**: Moderate-High (growth-stage energy, but now corporate-backed)
+- **Warm Intro**: Through sports/athlete contacts
 
-**Key Contacts**:
-- Sports Marketing Manager
-- Partnerships Manager
-- Regional Sales/Marketing Lead
+**Strategic Fit Analysis**:
+- **Audience Overlap**: ⭐⭐⭐⭐ Strong (athletes, fitness enthusiasts)
+- **Budget Fit**: ⭐⭐⭐⭐⭐ Excellent ($50k-$150k)
+- **Timeline Fit**: ⭐⭐⭐⭐ Good (6-8 weeks)
+- **Strategic Value**: ⭐⭐⭐⭐ Strong (performance/wellness)
+- **Overall Score**: 8.7/10
 
-**Pre-Call Research**:
-- Review Liquid IV website and recent sponsorships
-- Check their Instagram/social for athlete partnerships
-- Understand their event sampling strategy
-- Note recent growth and PepsiCo integration
+**Activation Opportunities**:
+1. Event sampling and product stations
+2. Athlete endorsements and testimonials
+3. Performance/recovery content
+4. Grassroots tournament sponsorship
+5. Co-branded content (tips, hydration science)
+6. Influencer partnerships
+
+**Outreach Timing**: Aug 27-28  
+**Expected Response Rate**: 55-65%
 
 ---
 
-### PROSPECT 7: Peloton - Fitness Platform
+### Prospect 7: Peloton (or Apple Fitness+) — Fitness Platform
+**Category**: Technology & Software  
+**Priority Tier**: 2
+
 **Company Profile**:
-- Official Name: Peloton Interactive Inc.
-- Stock: NASDAQ: PTON
-- Website: https://www.pelotoncycles.com
-- Headquarters: New York, NY
-- Industry: Connected Fitness & Wellness Platform
-- Key Products: Fitness Bikes, Treadmills, App, Classes
+- **Legal Name**: Peloton Interactive Inc.
+- **Stock**: NASDAQ: PTON
+- **Headquarters**: New York, NY, USA
+- **Industry**: Connected Fitness, Streaming Content
+- **Website**: www.pelotoncycles.com
+- **LinkedIn**: /company/peloton-interactive
 
-**Budget Profile**:
-- Estimated Annual Sponsorship Budget: $50k-$150k
-- Primary Allocation: Strategic partnerships, community programs
-- Budget Timeline: Q4 2026
-- Decision Cycle: 6-8 weeks
-
-**Fit Analysis**:
-- ⭐⭐⭐⭐ STRONG FIT
-- Health/fitness audience overlap
-- Co-promotion opportunities (tennis workout content)
-- App integration potential
-- Community challenge opportunities
+**Sponsorship Profile**:
+- **Annual Sponsorship Budget**: $50,000-$150,000
+- **Budget Cycle**: Annual Q4 planning
+- **Decision Timeline**: 8-10 weeks (corporate process)
+- **Typical Deal Size**: $35k-$100k
+- **Previous Sponsorships**: Fitness influencers, wellness brands, health initiatives
 
 **Contact Strategy**:
-- LinkedIn Search: "Peloton Business Development" or "Partnerships Manager"
-- Look for "VP Partnerships" or "Community Manager"
-- Public company = more formal process
-- Shorter timeline than traditional corporate
+- **Primary Contact Path**: LinkedIn → VP Partnerships or Business Development
+- **Search Query**: "Peloton Business Development" or "VP Partnerships"
+- **Decision Maker**: VP Partnerships or Head of Brand Partnerships
+- **Access Level**: Moderate (public company, structured process)
+- **Warm Intro**: Preferred but not required
+
+**Strategic Fit Analysis**:
+- **Audience Overlap**: ⭐⭐⭐⭐ Strong (fitness, health, wellness)
+- **Budget Fit**: ⭐⭐⭐⭐ Strong ($50k-$150k)
+- **Timeline Fit**: ⭐⭐⭐ Moderate (8-10 weeks)
+- **Strategic Value**: ⭐⭐⭐⭐ Strong (fitness co-promotion)
+- **Overall Score**: 8.2/10
+
+**Activation Opportunities**:
+1. Co-branded fitness content (tennis workouts)
+2. Community challenges and events
+3. App feature integration
+4. Cross-member promotion and discounts
+5. Joint content (training tips, athletes)
+6. Co-marketing campaigns
+
+**Outreach Timing**: Aug 28-29  
+**Expected Response Rate**: 40-50% (larger corporate)
 
 ---
 
-### PROSPECT 8: Local/Regional Wealth Management Firm
-**Company Profile**:
-- **RESEARCH REQUIRED**: Identify 1-2 local wealth management or investment advisory firms
-- Examples to search for:
-  - Independent RIAs (Registered Investment Advisors)
-  - Local wealth management firms
-  - Regional investment advisory companies
-  
-**Budget Profile**:
-- Estimated Annual Sponsorship Budget: $30k-$100k
-- Primary Allocation: Local community visibility, client engagement
-- Budget Timeline: Q4 2026
-- Decision Cycle: 2-4 weeks
+### Prospect 8: CVS Health / Aetna — Health & Wellness CSR
+**Category**: Health & Wellness (Corporate)  
+**Priority Tier**: 2 (Longer Timeline)
 
-**Fit Analysis**:
-- ⭐⭐⭐⭐ STRONG FIT
-- Affluent demographic alignment
-- Premium positioning value
-- Executive networking opportunities
-- Community presence and visibility
+**Company Profile**:
+- **Legal Name**: CVS Health Corporation
+- **Stock**: NYSE: CVS
+- **Headquarters**: Woonsocket, RI, USA
+- **Industry**: Healthcare, Retail Pharmacy, Insurance (Aetna)
+- **Website**: www.cvs.com / www.aetna.com
+- **LinkedIn**: /company/cvs-health
+
+**Sponsorship Profile**:
+- **Annual Sponsorship Budget**: $100,000-$300,000+ (large CSR pools)
+- **Budget Cycle**: Annual Q4 planning
+- **Decision Timeline**: 8-12 weeks (corporate process)
+- **Typical Deal Size**: $50k-$200k
+- **Previous Sponsorships**: Health initiatives, community wellness programs, youth activities
 
 **Contact Strategy**:
-- Direct call to Managing Partner or Principal
-- In-person meeting preferred
-- LOCAL approach very effective
-- Warm intro if possible
+- **Primary Contact Path**: LinkedIn → Community Relations Manager or CSR Director
+- **Search Query**: "CVS Community Relations Manager" or "Corporate Social Responsibility"
+- **Decision Maker**: Director of Community Relations or VP CSR
+- **Access Level**: Moderate (corporate, but established programs)
+- **Warm Intro**: Through health/community networks if available
+
+**Strategic Fit Analysis**:
+- **Audience Overlap**: ⭐⭐⭐⭐ Strong (community health, wellness)
+- **Budget Fit**: ⭐⭐⭐⭐⭐ Excellent ($100k-$300k+)
+- **Timeline Fit**: ⭐⭐⭐ Moderate (8-12 weeks)
+- **Strategic Value**: ⭐⭐⭐ Moderate (CSR vs. business driver)
+- **Overall Score**: 8.0/10
+
+**Activation Opportunities**:
+1. Community wellness programs
+2. Health tracking and incentives
+3. Corporate wellness events
+4. Health/fitness content partnerships
+5. Employee engagement opportunities
+6. Multi-year commitment potential
+
+**Outreach Timing**: Aug 29-30  
+**Expected Response Rate**: 35-45% (longer cycle)
 
 ---
 
-## Tier 3: Strategic/Exploratory (Aug 31-Sept 2)
+### Prospect 9: Local/Regional Wealth Management Firm
+**Category**: Financial Services  
+**Priority Tier**: 2
 
-### PROSPECT 9: CVS Health / Aetna - Health & Wellness CSR
 **Company Profile**:
-- Official Name: CVS Health Corporation
-- Stock: NYSE: CVS
-- Website: https://www.cvs.com / https://www.aetna.com
-- Headquarters: Woonsocket, RI
-- Industry: Health & Wellness / Pharmacy / Insurance
-- Focus: Community health, CSR initiatives
+- **Company Type**: Independent Registered Investment Advisor (RIA), wealth manager, or regional investment firm
+- **Location**: [YOUR LOCAL AREA]
+- **Typical Characteristics**:
+  - $100M-$1B+ assets under management
+  - Affluent client base
+  - Community-focused positioning
+  - Marketing through events and relationships
 
-**Budget Profile**:
-- Estimated Annual Sponsorship Budget: $150k-$400k (large CSR budgets)
-- Primary Allocation: Community health, wellness, disease prevention
-- Budget Timeline: Q4 2026
-- Decision Cycle: 8-12 weeks (longer process)
-
-**Fit Analysis**:
-- ⭐⭐⭐⭐ STRONG CSR ALIGNMENT
-- Community health focus
-- Wellness and prevention positioning
-- CSR goal alignment
+**Sponsorship Profile**:
+- **Annual Sponsorship Budget**: $25,000-$100,000
+- **Budget Cycle**: Annual Q4 planning
+- **Decision Timeline**: 4-6 weeks (entrepreneurial)
+- **Typical Deal Size**: $15k-$50k
+- **Previous Sponsorships**: Local events, charity galas, community initiatives
 
 **Contact Strategy**:
-- LinkedIn Search: "CVS Aetna Community Relations Manager" or "CSR Manager"
-- Start with regional CSR/community relations lead
-- Longer sales cycle - requires formal proposal
+- **Primary Contact Path**: Direct call/LinkedIn → Managing Partner or Marketing Director
+- **Decision Maker**: Owner, Managing Partner, or Chief Marketing Officer
+- **Access Level**: VERY HIGH (local, entrepreneurial)
+- **Warm Intro**: Personal introduction highly effective
+- **Approach**: In-person meeting + relationship building
+
+**Strategic Fit Analysis**:
+- **Audience Overlap**: ⭐⭐⭐⭐ Strong (affluent demographic overlap)
+- **Budget Fit**: ⭐⭐⭐⭐ Strong ($25k-$100k)
+- **Timeline Fit**: ⭐⭐⭐⭐ Good (4-6 weeks)
+- **Strategic Value**: ⭐⭐⭐⭐ Strong (premium positioning)
+- **Overall Score**: 8.3/10
+
+**Activation Opportunities**:
+1. VIP/premium sponsorship events
+2. Thought leadership content partnerships
+3. Executive networking events
+4. Community positioning and branding
+5. Client engagement opportunities
+6. Co-branded events
+
+**Outreach Timing**: Aug 29-30  
+**Expected Response Rate**: 60-70% (local, relationship-driven)
 
 ---
 
-### PROSPECT 10: Microsoft Community Programs - Tech CSR
+## TIER 3: STRATEGIC/EXPLORATORY
+
+### Prospect 10: Local Restaurant / Sports Bar
+**Category**: Local & Community  
+**Priority Tier**: 3
+
 **Company Profile**:
-- Official Name: Microsoft Community Programs
-- Website: https://www.microsoft.com/community
-- Headquarters: Redmond, WA (or local office)
-- Industry: Technology / CSR Programs
-- Focus: Community health, digital access, nonprofit support
+- **Company Type**: Premium restaurant, sports bar, or local café
+- **Location**: [YOUR LOCAL AREA]
+- **Typical Characteristics**:
+  - Community gathering place
+  - Event hosting capacity
+  - Food/beverage offerings
+  - Social media presence
 
-**Budget Profile**:
-- Estimated Annual Sponsorship Budget: $100k-$250k (large pools, competitive)
-- Primary Allocation: Community health, digital access, STEM initiatives
-- Budget Timeline: Q4 2026
-- Decision Cycle: 8-16 weeks (longer formal process)
+**Sponsorship Profile**:
+- **Annual Sponsorship Budget**: $5,000-$25,000
+- **Budget Cycle**: Flexible, often seasonal
+- **Decision Timeline**: 2-4 weeks (entrepreneurial)
+- **Typical Deal Size**: $3k-$15k (or trade/barter)
+- **Previous Sponsorships**: Local businesses, sports leagues, charity events
 
-**Fit Analysis**:
-- ⭐⭐⭐ MODERATE FIT
-- Community health alignment possible
-- Tech integration opportunities
-- Longer sales cycle
-- High gatekeeping
+**Contact Strategy**:
+- **Primary Contact Path**: Direct call/visit → Owner or General Manager
+- **Decision Maker**: Owner or General Manager
+- **Access Level**: VERY HIGH (direct, quick decision-making)
+- **Approach**: In-person visit most effective
+- **Value Prop**: Foot traffic, new customer acquisition
 
----
+**Strategic Fit Analysis**:
+- **Audience Overlap**: ⭐⭐⭐ Moderate to Strong (community, sports fans)
+- **Budget Fit**: ⭐⭐⭐ Moderate ($5k-$25k)
+- **Timeline Fit**: ⭐⭐⭐⭐⭐ FASTEST (2-4 weeks)
+- **Strategic Value**: ⭐⭐⭐⭐ Strong (community visibility, events)
+- **Overall Score**: 7.8/10
 
-## DISCOVERY CALL TRACKER TEMPLATE
+**Activation Opportunities**:
+1. Co-hosted events and watch parties
+2. Cross-promotion and marketing
+3. Venue partnership for events
+4. Member discount programs
+5. Co-branded social media content
+6. Food/beverage tie-ins
 
-Use this to log all outreach activities:
-
-| Prospect | Contact Name | Contact Info | Status | Call Scheduled | Call Date | Budget Confirmed | Fit Score | Notes |
-|----------|--------------|--------------|--------|---|---|---|---|---|
-| Wilson | [Research] | [Research] | Ready | ⏳ | - | - | 5/5 | Tier 1 - Tennis Equipment |
-| Lululemon | [Research] | [Research] | Ready | ⏳ | - | - | 5/5 | Tier 1 - Local First |
-| SwingVision | [Research] | [Research] | Ready | ⏳ | - | - | 5/5 | Tier 1 - Tech Integration |
-| [Local Tennis] | [Research] | [Research] | Ready | ⏳ | - | - | 5/5 | Tier 1 - Direct Partner |
-| CLIF Bar | [Research] | [Research] | Ready | ⏳ | - | - | 4/5 | Tier 2 - Sports Nutrition |
-| Liquid IV | [Research] | [Research] | Ready | ⏳ | - | - | 4/5 | Tier 2 - Performance Hydration |
-| Peloton | [Research] | [Research] | Ready | ⏳ | - | - | 4/5 | Tier 2 - Fitness Platform |
-| [Local Wealth] | [Research] | [Research] | Ready | ⏳ | - | - | 4/5 | Tier 2 - Affluent Demographic |
-| CVS/Aetna | [Research] | [Research] | Ready | ⏳ | - | - | 4/5 | Tier 3 - Longer Cycle |
-| Microsoft | [Research] | [Research] | Ready | ⏳ | - | - | 3/5 | Tier 3 - Longer Cycle |
-| [Local Insurance] | [Research] | [Research] | Ready | ⏳ | - | - | 3/5 | Tier 3 - Local |
-| [Local Business] | [Research] | [Research] | Ready | ⏳ | - | - | 3/5 | Tier 3 - Trade/Barter |
-
----
-
-## IMMEDIATE ACTION ITEMS (Aug 24-25)
-
-**ACTION 1**: Complete LinkedIn Research for Key Contacts (2 hours)
-- [ ] Wilson Sponsorship Manager
-- [ ] Lululemon Community Partnerships Lead
-- [ ] SwingVision VP Partnerships
-- [ ] CLIF Bar Sports Marketing Manager
-- [ ] Liquid IV Partnerships Manager
-- [ ] Peloton Business Development
-
-**ACTION 2**: Research Local Prospects (2 hours)
-- [ ] Identify 1-2 local tennis clubs/fitness centers
-- [ ] Identify 1-2 local wealth management firms
-- [ ] Identify 1-2 local insurance agencies
-- [ ] Get manager names and phone numbers
-
-**ACTION 3**: Prepare Outreach Materials (2 hours) - See OUTREACH_EMAIL_TEMPLATE.md
-- [ ] Draft personalized discovery emails
-- [ ] Prepare phone talking points
-- [ ] Create call scheduling Calendly link
-- [ ] Test email and phone systems
-
-**TOTAL TIME**: 6 hours of focused research and preparation
+**Outreach Timing**: Aug 30-31 (Post-tier 1/2)  
+**Expected Response Rate**: 70-80% (entrepreneurial, community-focused)
 
 ---
 
-## Next Steps
+### Prospect 11: Microsoft/Google Community Programs
+**Category**: Technology (Corporate CSR)  
+**Priority Tier**: 3
 
-**Aug 26 Morning**: Begin outreach with Tier 1 prospects
-- Wilson, Lululemon, SwingVision, Local Tennis Club
-- Target: Schedule 8-12 calls for Aug 26-30
+**Company Profile**:
+- **Legal Name**: Microsoft Corporation or Google LLC
+- **Stock**: NASDAQ: MSFT / GOOGL
+- **Headquarters**: Redmond, WA (Microsoft) / Mountain View, CA (Google)
+- **Industry**: Technology, Cloud Services, Advertising
+- **Website**: microsoft.com/community | google.org
+- **LinkedIn**: /company/microsoft | /company/google
 
-**Aug 27-30**: Execute discovery calls and follow-ups
+**Sponsorship Profile**:
+- **Annual Sponsorship Budget**: $50,000-$200,000+ (large pools, competitive)
+- **Budget Cycle**: Annual Q4 planning
+- **Decision Timeline**: 8-16 weeks (corporate, complex process)
+- **Typical Deal Size**: $50k-$150k
+- **Previous Sponsorships**: Education, tech education, community tech initiatives, health tech
 
-**Sept 3-5**: Synthesize findings and prepare Phase 2 materials
+**Contact Strategy**:
+- **Primary Contact Path**: LinkedIn → Community Partnerships Manager or Program Manager
+- **Search Query**: "[Company] Community Partnerships" or "Corporate Social Responsibility"
+- **Decision Maker**: Director of Community Programs or Senior Program Manager
+- **Access Level**: Low-Moderate (corporate gatekeeping, formal process)
+- **Warm Intro**: Required for faster consideration
+
+**Strategic Fit Analysis**:
+- **Audience Overlap**: ⭐⭐⭐ Moderate (depends on CSR initiative)
+- **Budget Fit**: ⭐⭐⭐⭐ Strong ($50k-$200k)
+- **Timeline Fit**: ⭐⭐ Slow (8-16 weeks)
+- **Strategic Value**: ⭐⭐⭐ Moderate (tech infrastructure potential)
+- **Overall Score**: 7.2/10
+
+**Activation Opportunities**:
+1. Tech integration and platform support
+2. Employee volunteer programs
+3. Community tech/digital access initiatives
+4. Data analytics and insights
+5. Co-branded content and case studies
+6. Multi-year partnership potential
+
+**Outreach Timing**: Sept 1-2 (After tier 1/2)  
+**Expected Response Rate**: 20-30% (large corporate, gatekeeping)
 
 ---
 
-*Last Updated: Aug 23, 2026*  
-*Owner: Business Development Lead*  
-*Next Review: Aug 26, 2026 (after initial outreach begins)*
+### Prospect 12: Local Insurance Agency / Broker
+**Category**: Financial Services  
+**Priority Tier**: 3
+
+**Company Profile**:
+- **Company Type**: Independent insurance broker, local agent, or regional insurance company
+- **Location**: [YOUR LOCAL AREA]
+- **Typical Characteristics**:
+  - Entrepreneurial ownership
+  - Local community focus
+  - Relationship-based sales model
+  - Community event involvement
+
+**Sponsorship Profile**:
+- **Annual Sponsorship Budget**: $10,000-$50,000 (flexible, often trade/barter)
+- **Budget Cycle**: Flexible, ongoing
+- **Decision Timeline**: 2-4 weeks (entrepreneurial)
+- **Typical Deal Size**: $5k-$25k (or trade arrangements)
+- **Previous Sponsorships**: Local events, sports leagues, community initiatives
+
+**Contact Strategy**:
+- **Primary Contact Path**: Direct call/visit → Agency Principal or Marketing Manager
+- **Decision Maker**: Owner or Principal
+- **Access Level**: VERY HIGH (entrepreneurial, accessible)
+- **Approach**: In-person relationship building most effective
+- **Value Prop**: Community visibility, client engagement
+
+**Strategic Fit Analysis**:
+- **Audience Overlap**: ⭐⭐⭐ Moderate (community health/wellness angle)
+- **Budget Fit**: ⭐⭐⭐ Moderate ($10k-$50k)
+- **Timeline Fit**: ⭐⭐⭐⭐⭐ FASTEST (2-4 weeks)
+- **Strategic Value**: ⭐⭐⭐ Moderate (community visibility)
+- **Overall Score**: 7.5/10
+
+**Activation Opportunities**:
+1. Event sponsorship and presence
+2. Health/wellness content partnerships
+3. Community visibility and branding
+4. Risk management messaging
+5. Client engagement opportunities
+6. Local event hosting
+
+**Outreach Timing**: Aug 31-Sept 1 (Post-tier 1/2)  
+**Expected Response Rate**: 65-75% (entrepreneurial, community-focused)
+
+---
+
+## RESEARCH CHECKLIST STATUS
+
+**COMPLETED (Aug 23)**:
+- ✅ Strategic research frameworks established
+- ✅ 12 prospect categories identified
+- ✅ Preliminary fit analysis completed
+- ✅ Contact strategy outlined
+
+**IN PROGRESS (Aug 24-25)**:
+- [ ] Specific contact research for Tier 1 prospects
+- [ ] LinkedIn profile research and connections
+- [ ] Email/phone verification for each prospect
+- [ ] Warm introduction mapping
+
+**NEXT STEPS (Aug 26+)**:
+- [ ] Outreach email customization per prospect
+- [ ] Phone call scheduling
+- [ ] Calendly setup and sharing
+- [ ] Discovery call preparation
+
+---
+
+## OUTREACH PRIORITY SCHEDULE
+
+**Week 1 - Aug 26-27 (Tier 1)**:
+1. Wilson Sporting Goods (research contact + cold email)
+2. SwingVision (research contact + cold email)
+3. Lululemon (local in-person approach)
+4. Local Tennis Club (direct call/visit)
+
+**Week 1 - Aug 28-30 (Tier 2)**:
+1. CLIF Bar (research contact + cold email)
+2. Liquid IV (research contact + cold email)
+3. Peloton (research contact + cold email)
+4. CVS Health/Aetna (research contact + cold email)
+5. Local Wealth Management (direct call)
+
+**Week 2 - Aug 31-Sept 2 (Tier 3 + Follow-ups)**:
+1. Follow-ups to Tier 1/2 non-responders
+2. Local Restaurant (direct call/visit)
+3. Microsoft/Google (research + long-timeline tracking)
+4. Insurance Broker (direct call)
+
+---
+
+## SUCCESS METRICS (Phase 1)
+
+**By Aug 30**:
+- [ ] 12 prospects researched with contact details
+- [ ] 4+ Tier 1 discovery calls scheduled
+- [ ] 60%+ response rate to initial outreach
+- [ ] 2-3 Tier 1 prospects confirmed engaged
+
+**By Sept 5**:
+- [ ] 8-12 discovery calls completed
+- [ ] 6+ prospects showing strong interest
+- [ ] Package feedback compiled
+- [ ] 5-8 hot prospects identified for Phase 2
+
+---
+
+## RESOURCES
+
+- **Email Templates**: OUTREACH_EMAIL_TEMPLATE.md
+- **Phone Talking Points**: CALL_TALKING_POINTS.md
+- **Call Tracking**: DISCOVERY_CALL_TRACKER.md
+- **Calendly Link**: [To be set up Aug 24]
+
+---
+
+**Status**: ✅ Aug 24 Research Complete - Ready for Aug 26 Outreach  
+**Last Updated**: Aug 24, 2026, 10:00 AM

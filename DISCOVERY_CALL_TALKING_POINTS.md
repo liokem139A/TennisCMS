@@ -1,560 +1,414 @@
-# Discovery Call Talking Points & Framework
+# Discovery Call Talking Points
 **Issue**: CEL-35  
 **Phase**: 1 - Pitch Refinement  
-**Purpose**: Structured framework for discovery calls (Aug 26 - Sept 2)  
-**Prepared**: Aug 23, 2026
+**Created**: Aug 24, 2026  
+**Status**: Ready for Aug 26-Sept 2 Discovery Calls
 
 ---
 
-## Pre-Call Preparation Checklist (Do 24 hours before)
+## CALL OVERVIEW
 
-**Research Phase** (30 minutes):
-- [ ] Review prospect company website and recent news
-- [ ] Check their social media (Instagram, LinkedIn, Twitter)
-- [ ] Look up recent sponsorships or partnerships they've done
-- [ ] Identify any mutual connections on LinkedIn
-- [ ] Note their leadership team and current initiatives
-- [ ] Prepare 2-3 specific company facts to reference
-
-**Call Prep** (15 minutes):
-- [ ] Test audio/video technology (Zoom/Google Meet)
-- [ ] Review SPONSOR_STRATEGY.md discovery framework
-- [ ] Have prospect research notes visible during call
-- [ ] Prepare call notes template (see below)
-- [ ] Set up any visual materials (if sharing screen)
-- [ ] Confirm call time/link with prospect 24 hours prior
-
-**Mindset** (5 minutes):
-- [ ] Remember: YOU'RE LEARNING, not pitching
-- [ ] Curiosity over selling
-- [ ] Their needs first, your needs second
-- [ ] This is a conversation, not an interrogation
+**Duration**: 30-45 minutes  
+**Format**: Phone or video call (prospect's preference)  
+**Objective**: Understand sponsorship priorities and validate partnership fit  
+**Success Metric**: 3-5 key insights captured + confirmed interest level  
 
 ---
 
-## Discovery Call Framework (45 minutes total)
+## PRE-CALL PREPARATION (5 minutes before)
 
-### SECTION 1: INTRODUCTION & RAPPORT (5 minutes)
+**Steps**:
+1. Review prospect profile from PROSPECT_RESEARCH_DETAILS.md
+2. Research recent company news (Google: "[Company Name] news 2026")
+3. Note 1-2 specific details about their brand/company
+4. Have package pricing visible ($5k Bronze through $250k+ Platinum)
+5. Have DISCOVERY_CALL_TRACKER.md open and ready to take notes
 
-**Goal**: Establish comfort, explain purpose, build rapport
+**Mindset**: Curious listener, not salesperson — you're learning, not pitching
 
-**Your Opening Script**:
+---
+
+## OPENING (5 minutes)
+
+### Step 1: Greeting & Warm Intro
 ```
-"Thanks so much for taking the time to talk today [Name]. I really appreciate it.
-
-I know you're busy, so let me quickly explain what we're doing and why I thought 
-you'd be a good person to talk to.
-
-[We're building [Community Name] — a central platform for the tennis community. 
-We're at a really exciting point where we're exploring partnerships with brands 
-that share our values and are genuinely committed to the community.
-
-I did some research on [Company], and I was impressed by [SPECIFIC FACT - their 
-recent partnership/initiative/mission]. That's exactly the kind of authenticity 
-and commitment we're looking for in partners.
-
-So today, I really want to learn about YOU — your goals, your challenges, what 
-success looks like for you. We'll talk a bit about what we're building, but I'm 
-most interested in understanding whether there might be a fit.
-
-Does that sound good?"]
+"Hi [Name], thanks so much for taking the time today. I really appreciate 
+it. I'm [Your Name] with [Community/Property]."
 ```
 
-**Warm-up Questions** (60 seconds):
-- "How long have you been in the [sponsorship/community/marketing] space at [Company]?"
-- "What's been your biggest learning working with [Company]?"
-- [Listen and respond naturally - this is about building rapport]
+### Step 2: Context-Setting (not a pitch yet!)
+```
+"I know you get a lot of sponsorship requests, so I'll be direct: I'm not 
+here to pitch you today. I'm actually in discovery mode — trying to 
+understand what successful sponsorships look like from YOUR perspective, 
+and whether there's a natural fit between [Community] and [Company].
+
+I've done research on [Company's] work in [sport/wellness/community], and 
+I think there might be alignment. But I'd rather ask good questions and 
+listen than talk about us right now.
+
+Does that sound good?"
+```
+
+### Step 3: Get Permission to Proceed
+```
+"Sound like a plan? Anything you want me to know upfront?"
+```
 
 ---
 
-### SECTION 2: THEIR CURRENT SITUATION (10 minutes)
+## MAIN CONVERSATION (20-25 minutes)
 
-**Goal**: Understand their sponsorship goals, budget, and constraints
+### SECTION 1: Current Sponsorship Strategy (8-10 minutes)
+
+**Goal**: Understand their priorities, budget mindset, decision timeline
 
 **Key Questions**:
 
-1. **Overall Strategy** (2-3 minutes):
-   ```
-   "Let me start with the big picture: What are [Company]'s key priorities 
-   when it comes to sponsorships and community partnerships in 2026-2027?"
-   
-   LISTEN FOR:
-   - Budget allocation (where is money going?)
-   - Key business goals (brand awareness? lead generation? community?)
-   - Industry focus (specific sports? demographics?)
-   - Partner types (prefer events? digital? content?)
-   ```
+1. **Budget Alignment**
+   - "What's your current sponsorship budget for 2026?"
+   - "How much of that is allocated to [sports/wellness/community]?"
+   - "How do you typically structure deals — annual contracts, multi-year?"
 
-2. **Current Sponsorships** (2-3 minutes):
-   ```
-   "Are you currently sponsoring any sports or community initiatives? 
-   Tell me about those — what's working, what's not?"
-   
-   LISTEN FOR:
-   - Current partnerships and results
-   - What they liked/disliked about past sponsorships
-   - ROI expectations they had
-   - Activation preferences
-   - Budget they're comfortable with
-   ```
+2. **Strategic Priorities**
+   - "What are your top 2-3 sponsorship objectives for the next 12 months?"
+   - "Are you looking to build reach, deepen existing partnerships, or explore new categories?"
+   - "What's the ideal sponsorship that would check all the boxes for you?"
 
-3. **Success Definition** (2-3 minutes):
-   ```
-   "How do you measure success in a sponsorship? What metrics matter most to you?"
-   
-   LISTEN FOR:
-   - Brand awareness / reach metrics
-   - Lead generation / sales impact
-   - Community engagement / sentiment
-   - Event attendance / participation
-   - ROI expectations
-   - Reporting preferences
-   ```
+3. **Audience Alignment**
+   - "What demographic are you trying to reach with sponsorships?"
+   - "Are you focusing on a specific geographic market?"
+   - "How important is it that sponsors align with your brand values?"
 
-4. **Decision Timeline** (1-2 minutes):
-   ```
-   "If we found the right fit, what's your decision timeline? 
-   When do you typically lock in partnerships for next year?"
-   
-   LISTEN FOR:
-   - Timeline (Q4? Q1? ongoing?)
-   - Decision process (who's involved? approval needed?)
-   - Budget flexibility (fixed or flexible?)
-   ```
+4. **Decision Timeline**
+   - "When do you typically make sponsorship decisions?"
+   - "What does your approval process look like?"
+   - "If we were a good fit, how quickly could you move?"
 
----
+### SECTION 2: Pain Points & Preferences (8-10 minutes)
 
-### SECTION 3: THEIR IDEAL PARTNERSHIP (10 minutes)
-
-**Goal**: Understand what they're looking for in a partnership partner
+**Goal**: Understand what makes sponsorships work OR fail for them
 
 **Key Questions**:
 
-1. **Ideal Partnership Characteristics** (3-4 minutes):
-   ```
-   "What would an ideal partnership look like for [Company]? 
-   What would excite your team the most?"
-   
-   LISTEN FOR:
-   - Audience/community characteristics
-   - Activation options (events, digital, content, etc.)
-   - Brand positioning/halo value
-   - Exclusivity preferences
-   - Integration depth (transactional vs. strategic)
-   ```
+1. **Past Sponsorships**
+   - "Tell me about a sponsorship that really worked for you. What made it successful?"
+   - "Have you had sponsorships that didn't deliver? What went wrong?"
+   - "What's the ROI measurement that matters most to you?"
 
-2. **Target Audience** (2-3 minutes):
-   ```
-   "Tell me about your target audience. Who are you trying to reach?
-   What matters to them?"
-   
-   LISTEN FOR:
-   - Demographics (age, income, lifestyle)
-   - Psychographics (values, interests)
-   - Purchase behavior
-   - Media consumption habits
-   - Community involvement level
-   ```
+2. **Activation Preferences**
+   - "When you sponsor something, what does success look like?"
+   - "Would you want digital integration, event presence, content, or something else?"
+   - "How hands-on do you want to be vs. letting us drive activation?"
 
-3. **Pain Points & Concerns** (2-3 minutes):
-   ```
-   "What are some things that have gone wrong in past sponsorships? 
-   What would you want to avoid this time around?"
-   
-   LISTEN FOR:
-   - Low engagement / low ROI
-   - Misaligned audiences
-   - Poor communication / reporting
-   - Lack of authentic brand fit
-   - Over-commercialization
-   ```
+3. **Partnership Preferences**
+   - "Do you prefer transactional sponsorships or deeper partnerships?"
+   - "Are you looking for exclusive partnerships or comfortable with competitors?"
+   - "How important is it that your sponsors deliver member/customer engagement?"
 
-4. **Activation Preferences** (2-3 minutes):
-   ```
-   "When you think about how to activate a sponsorship, what channels 
-   matter most? Events? Digital? Content? Media?"
-   
-   LISTEN FOR:
-   - Event presence/speaking opportunities
-   - Social media / digital channels
-   - Content partnerships / co-creation
-   - Email / direct marketing
-   - PR / media relations
-   - Product placement / sampling
-   ```
+4. **Pain Points**
+   - "What frustrates you about typical sponsorship deals?"
+   - "What would make us an ideal partner?"
 
----
+### SECTION 3: Soft Pitch (4-6 minutes)
 
-### SECTION 4: INTRODUCING OUR COMMUNITY (10 minutes)
+**Goal**: Present [Community] value prop tailored to their priorities
 
-**Goal**: Share what we're building and see if there's fit
-
-**Your Pitch** (customized by prospect):
-
-**[For Sports Equipment/Apparel - Wilson, Lululemon]**:
+**Transition Statement**:
 ```
-"So here's what we're building: [Community Name] is a central platform for 
-the tennis community — players, coaches, fans, all connected in one place.
-
-We have:
-- [X] active community members
-- Monthly engagement through [programs/events/content]
-- [Specific reach/demographics]
-
-What makes us different is we're AUTHENTIC. We're not just selling; we're 
-building real community around shared passion.
-
-For a brand like [Company], this means:
-- Direct access to engaged, passionate tennis players
-- Opportunity to be associated with community leadership
-- Activation options from grassroots to digital
-- Potential for product placement / ambassadors / content partnerships
-
-Does that sound like the kind of opportunity that excites you?"
+"This has been really helpful. Let me tell you briefly about [Community] 
+and why I thought of you specifically."
 ```
 
-**[For Tech/Analytics - SwingVision]**:
+**Key Talking Points** (customize for each prospect):
+
+**For Equipment/Sports Brands (Wilson, Lululemon)**:
 ```
-"So here's what we're building: [Community Name] is becoming the central 
-platform for the tennis community. We're at the point where we're exploring 
-strategic technology partners who can add real value to our members.
+"We're building a community of [X] active tennis players, coaches, and 
+enthusiasts. They're exactly your target demographic — they invest in 
+equipment, they're engaged, they trust community recommendations.
 
-Your AI analysis tools are perfect for our community. Imagine:
-- SwingVision's match analysis integrated directly into our platform
-- Members using your tools to improve their game
-- You getting direct distribution to an engaged, high-value user base
-- Co-branded features that benefit both communities
+We have [multiple] touchpoints: digital platform, events, content, social 
+media. And they're looking for brands that understand the sport and the 
+community, not just generic sponsorships.
 
-This isn't traditional sponsorship — it's strategic partnership. Does that 
-kind of collaboration interest you?"
-```
-
-**[For Local Businesses]**:
-```
-"So we're building [Community Name] — a platform for local [tennis players / 
-fitness enthusiasts] to connect and engage.
-
-We saw what you're doing at [Business], and we think there's a real opportunity 
-for us to work together:
-- Co-host events that drive traffic for both of us
-- Cross-promote to each other's communities
-- Collaborate on member engagement initiatives
-- Build something bigger together
-
-Interested in exploring that?"
+I think we could offer you [specific activation idea based on their 
+priorities]."
 ```
 
-**Gauge Interest** (use these phrases):
-- "Does this resonate with what you're looking for?"
-- "Do you see a potential fit here?"
-- "What are your initial thoughts?"
-- [Listen carefully to their response]
-
----
-
-### SECTION 5: PACKAGE FIT DISCUSSION (7 minutes)
-
-**Goal**: Understand which package tier (Bronze/Silver/Gold) might fit
-
-**Only if they're genuinely interested** (gauge their energy):
-
+**For Tech/Analytics (SwingVision)**:
 ```
-"Great. So if we did partner, I want to make sure we're thinking about 
-the right level of investment and commitment.
+"Our community members are tech-forward athletes. They want training 
+analytics, match insights, performance tracking. Your platform solves a 
+real need for our community.
 
-We typically work with partners in a few different ways:
+We're thinking less traditional sponsorship and more strategic partnership 
+— we offer you access to a growing community, you give members access to 
+best-in-class tools. Win-win.
 
-BRONZE ($10k-$25k):
-- Logo/brand placement on website and social
-- Quarterly mention in our communications
-- Basic event presence
-- Good for emerging brands or local businesses
+Does that sound like something worth exploring?"
+```
 
-SILVER ($25k-$75k):
-- Featured homepage placement
-- Monthly newsletter features
-- Speaking/presentation opportunities at events
-- Dedicated partnership support
-- Good for mid-market companies with established budgets
+**For Nutrition/Wellness (CLIF Bar, Liquid IV, CVS)**:
+```
+"We're focused on [health/performance/wellness], and our community values 
+authentic partners in those spaces. We have [X] members, and we can 
+definitely feature brands that align with our mission.
 
-GOLD ($75k-$200k+):
-- Premium positioning across all channels
-- Executive relationship and strategic collaboration
-- Custom content and integration opportunities
-- Naming rights / ambassador program potential
-- Good for major brands wanting deep integration
+I think we could do [specific idea: event sampling, testimonials, content] 
+that gives you real access to our community and drives engagement."
+```
 
-Where do you think [Company] might sit, given your goals and budget?"
+**For Local Businesses (Tennis Club, Restaurant)**:
+```
+"We're growing [Community/Property] and want to partner with local 
+businesses to create great experiences. I see you as a natural fit because 
+[specific alignment].
 
-LISTEN FOR:
-- Budget comfort level
-- Desired depth of partnership
-- Preference for specific activation types
-- Realistic expectations about investment
+I'm thinking co-hosted events, member benefits, mutual promotion — things 
+that drive traffic and engagement for both of us."
 ```
 
 ---
 
-### SECTION 6: CLOSING & NEXT STEPS (3 minutes)
+## CLOSING (5 minutes)
 
-**Summarize** (30 seconds):
+### Step 1: Check Interest Level
+
+**Ask directly**:
 ```
-"Okay, so here's what I'm hearing:
-- [Repeat back 2-3 key points about their goals/constraints]
-- [Note the package tier that seems to fit]
-- [Highlight specific activation they're excited about]
-
-Does that sound right?"
+"Based on what we've talked about, does this feel like something worth 
+exploring? What's your gut telling you?"
 ```
 
-**Confirm Interest** (30 seconds):
+**Listen for**:
+- "Yes, I like the fit" → Move to Step 2
+- "Maybe, but..." → Ask clarifying questions
+- "Not really" → Ask why, and if there's a better time
+
+### Step 2: Next Steps
+
+**If interested**:
 ```
-"Are you interested in exploring this further? 
-Would you want to continue the conversation?"
+"Great! Here's what I'm thinking as next steps:
+1. I'll send over our formal proposal/sponsorship packages by [date]
+2. We'd schedule another call in [timeframe] to discuss fit and budget
+3. If we're aligned, we could move toward a partnership agreement
 
-IF YES:
-"Perfect. Here's what I'm thinking:
-1. I'll send you over some initial package details and ROI materials
-2. We can grab a follow-up call in [1-2 weeks] to dive deeper
-3. By early September, we'll have a clearer picture of fit and timing
-
-Does that work for you?"
-
-IF UNCLEAR/CONDITIONAL:
-"What would help you decide? What information would be most useful?"
-
-IF NO:
-"Thanks for being honest. If anything changes or if we evolve our offering, 
-can I check back in with you next quarter?"
+Does that timeline work for you?"
 ```
 
-**Get Their Preferred Next Steps** (30 seconds):
+**If not yet interested but leave door open**:
 ```
-"What's the best way to stay in touch? 
-Email? LinkedIn? Prefer I call or you'll reach out?"
+"I totally understand. This might not be the right fit right now. 
+But I'd love to stay in touch — maybe revisit in Q4 when you're doing 
+2027 planning?
+
+Can I add you to a quick monthly update about what we're building?"
 ```
+
+### Step 3: Confirm Next Touch Point
+
+**Always confirm**:
+- "So I'll send that proposal by [specific date]"
+- "Does [email] work, or would you prefer I call?"
+- "Any constraints I should know about? (budget, timeline, stakeholders)"
 
 ---
 
-## Discovery Call Notes Template
+## DISCOVERY CALL NOTES TEMPLATE
 
-**Complete this DURING or IMMEDIATELY AFTER each call**
+**Fill out immediately after call**:
 
 ```
-DISCOVERY CALL NOTES
-====================
+PROSPECT DISCOVERY CALL NOTES
+===============================
 
-Prospect: [Company Name]
-Date: [Date]
-Duration: [Minutes]
-Participants: [Names, Titles]
-Interviewer: [Your Name]
+Prospect: [Name]
+Contact: [Name, Title]
+Date/Time: [Date & Duration]
+Participants: [Who was on the call]
 
-COMPANY OVERVIEW
-- Industry/Business: [What they do]
-- Key Products/Services: [What they sell]
-- Approximate Budget: $[X]k
-- Decision Timeline: [When they decide on partnerships]
+BUDGET & TIMELINE
+- 2026 Sponsorship Budget: $[X]k
+- Timeline to Decision: [Weeks/Months]
+- Typical Deal Size: $[X]k
+- Multi-year vs. Annual: [Preference]
+- Budget Allocated to [Sport/Category]: [Percentage]
 
-2026-2027 SPONSORSHIP GOALS
-[Write 3-5 bullet points about their stated priorities]
-- 
-- 
-- 
+STRATEGIC PRIORITIES
+- Top Priorities: [List 1-3]
+- Measurement Focus: [What matters most]
+- Audience: [Target demographic]
+- Geographic Focus: [Local/National/Both]
 
-WHAT THEY'RE LOOKING FOR
-- Audience Type: [Their target demographic]
-- Activation Preference: Events / Digital / Content / [Other]
-- Success Metrics: [What they measure]
-- Exclusivity: [Do they want exclusive category? yes/no]
-- Ideal Budget Range: $[X]k-$[Y]k
-- Must-Haves: [Key requirements]
+ACTIVATION PREFERENCES
+- Digital: [Strong/Moderate/Low]
+- Events: [Strong/Moderate/Low]
+- Content: [Strong/Moderate/Low]
+- Other: [Notes]
+- Preferred Activation: [What they specifically want]
 
-PAST SPONSORSHIP EXPERIENCE
-- Current/Recent Partnerships: [Companies, results]
-- What Worked: [Positive experiences]
-- What Didn't Work: [Pain points, frustrations]
+KEY INSIGHTS FROM PROSPECT
+- What's worked before: [Notes]
+- What hasn't worked: [Notes]
+- Pain points: [Notes]
+- Success criteria: [Notes]
 
-PAIN POINTS & CONCERNS
-- [Challenge 1]
-- [Challenge 2]
-- [Challenge 3]
-
-OUR COMMUNITY FIT ASSESSMENT
-- How well does our community match their audience? (1-5): [Rating]
-- How excited were they about partnership potential? (1-5): [Rating]
-- How realistic is their budget for our packages? (1-5): [Rating]
-- Overall Fit Score (1-5): [Rating]
-
-PACKAGE TIER ALIGNMENT
-- Bronze Fit: [Yes/No/Maybe - Why?]
-- Silver Fit: [Yes/No/Maybe - Why?]
-- Gold Fit: [Yes/No/Maybe - Why?]
-- Recommended Tier: [Bronze/Silver/Gold]
+PROSPECT'S INTEREST LEVEL
+- Immediate Interest (0-4 weeks): [Y/N]
+- Fit Score (1-10): [X]
+- Budget Fit (1-10): [X]
+- Timeline Fit (1-10): [X]
+- Overall Priority (1-10): [X]
 
 NEXT STEPS
-- [Action 1] - Owner: [You/Them] - Deadline: [Date]
-- [Action 2] - Owner: [You/Them] - Deadline: [Date]
-- Follow-up Call: [Yes/No] - Proposed Date: [Date]
+- [ ] Send proposal by [Date]
+- [ ] Call to discuss by [Date]
+- [ ] Decision expected by [Date]
 
-KEY QUOTES / MEMORABLE INSIGHTS
-[Write down 1-2 powerful quotes or insights from the call]
-- "[Quote]"
-- [Insight]
+FOLLOW-UP ITEMS
+- [Action 1]
+- [Action 2]
+- [Action 3]
 
-RED FLAGS / CONCERNS
-[Note any concerns or misalignments]
-- [Concern 1]
-- [Concern 2]
+COMPETITIVE LANDSCAPE
+- Currently sponsoring: [Notes]
+- Competitive sponsorships: [Notes]
 
-OPPORTUNITIES / SYNERGIES
-[Note unexpected opportunities or connections]
-- [Opportunity 1]
-- [Opportunity 2]
+ADDITIONAL NOTES
+- [Any other relevant info]
 ```
 
 ---
 
-## Key Listening Techniques
+## COMMON OBJECTIONS & RESPONSES
 
-**ACTIVE LISTENING CHECKLIST**:
-- [ ] Listen more than you talk (aim for 70/30 them to you)
-- [ ] Ask follow-up questions to go deeper
-- [ ] Repeat back what you hear ("So if I'm hearing you right...")
-- [ ] Take detailed notes (shows you care)
-- [ ] Ask "Why?" or "Tell me more about that" frequently
-- [ ] Notice tone and energy (enthusiasm signals)
-- [ ] Look for unstated needs (between the lines)
+### Objection 1: "We're already invested in other sponsorships"
 
-**Questions That Go Deeper**:
-- "Tell me more about that..."
-- "Why is that important to you?"
-- "What does success look like specifically?"
-- "What would need to change for that to work?"
-- "Who else needs to be involved in this decision?"
-- "What's your biggest concern about this type of partnership?"
-
----
-
-## Objections & Responses
-
-**Objection**: "We're not sure we sponsor in the tennis space..."
-**Response**: "I totally understand. That's actually why I'm calling. Before you decide, 
-I'd love for you to understand the opportunity. You might find it's a perfect fit for 
-your audience. Can I send over some materials about the community first?"
-
-**Objection**: "Your budget is too high for us..."
-**Response**: "Great question. We actually have flexible options starting at $[X]k 
-that focus on [specific activation]. Would a smaller investment with focused activation 
-make more sense for you?"
-
-**Objection**: "We're already committed to other partnerships..."
-**Response**: "I appreciate that. Often partnerships have specific activation periods. 
-Would it make sense to explore a partnership starting Q1 2027, or later in 2026?"
-
-**Objection**: "We need to think about it / run it by the team..."
-**Response**: "Absolutely. Who should I follow up with? Can I send you a summary of 
-today's conversation plus some materials so you can discuss internally?"
-
-**Objection**: "We don't have budget right now..."
-**Response**: "Totally understandable. When do budgets typically open up for you? 
-And in the meantime, would it be worth exploring so you can make an informed decision?"
-
----
-
-## Post-Call Follow-Up
-
-**IMMEDIATELY After Call** (within 2 hours):
-- [ ] Complete call notes
-- [ ] Update DISCOVERY_CALL_TRACKER.md
-- [ ] Flag any high-priority opportunities
-
-**SAME DAY** (within 12 hours):
-- [ ] Send thank-you email with call summary
-- [ ] Include any promised materials
-- [ ] Confirm next steps and timeline
-- [ ] Reiterate your availability for follow-ups
-
-**Thank-You Email Template**:
+**Response**:
 ```
-Subject: Thanks for today's conversation - [Prospect Name]
-
-Hi [Name],
-
-Thanks again for taking the time to talk today. I really appreciated learning 
-about [Company]'s approach to partnerships and your exciting goals for 2026-2027.
-
-Here's what I'm taking away from our conversation:
-- [Key Point 1 about their goals]
-- [Key Point 2 about their preferences]
-- [Key Point 3 about potential opportunities]
-
-I'm attaching a few materials to give you a better sense of our community:
-- [Material 1]
-- [Material 2]
-
-As we discussed, I'll plan to follow up on [Date] to see if you have any 
-questions and explore next steps.
-
-In the meantime, feel free to reach out if anything comes up.
-
-Best,
-[Your Name]
-[Your Title]
-[Company]
-[Phone]
+"That makes sense. And I'm not here to replace anything. I'm curious — 
+are you getting the ROI you want from those partnerships? And is there 
+room in your budget to explore something new if the fit was really strong?"
 ```
 
+**Goal**: Understand if they're satisfied or just busy. Opens door for Phase 2.
+
+### Objection 2: "We can't make a decision until Q4"
+
+**Response**:
+```
+"Totally understand. I'm actually doing discovery now to understand the 
+market and refine our packages. Would it be helpful if I checked back in 
+with you in October? We could move quickly if there's a real fit."
+```
+
+**Goal**: Lock in September follow-up.
+
+### Objection 3: "Your community isn't big enough yet"
+
+**Response**:
+```
+"Fair point. We're early-stage, which means [benefit: early access, growth 
+partnership, low-cost experimental deal]. And we're growing [X% per month]. 
+If we do this right, you'll get in early and grow with us.
+
+Plus, our engagement metrics are [specific metric], which often matters more 
+than raw size. Would you be interested in exploring a smaller, strategic 
+deal to test the waters?"
+```
+
+**Goal**: Reframe size as opportunity, not barrier. Offer lower commitment.
+
+### Objection 4: "We need to see ROI metrics / proof"
+
+**Response**:
+```
+"Absolutely — measurement is important to us too. Here's how we'd measure 
+success: [specific metrics relevant to their goals]. 
+
+Based on what you mentioned earlier about [their objective], I'd propose we 
+track [specific KPIs]. Would those work for you?"
+```
+
+**Goal**: Show you're data-driven and aligned with their needs.
+
+### Objection 5: "What's your unique value prop vs. competitors?"
+
+**Response**:
+```
+"Great question. Most sponsorships you look at are either [generic] or 
+[expensive]. We're different because [specific differentiator]:
+- [Point 1: Community engagement, authentic fit, tech integration, etc.]
+- [Point 2]
+- [Point 3]
+
+Plus, I think our [specific activation] is unique in the market right now."
+```
+
+**Goal**: Differentiate without bad-mouthing competitors.
+
 ---
 
-## Discovery Call Dos & Don'ts
+## DO'S & DON'TS
 
-**DO**:
-- ✅ Ask genuine questions (be curious!)
-- ✅ Take detailed notes
-- ✅ Listen more than you talk
-- ✅ Follow your prospect's energy
-- ✅ Be authentic and conversational
-- ✅ Acknowledge their constraints
-- ✅ Explore multiple activation options
-- ✅ Confirm next steps clearly
+### DO:
+✅ Listen more than you talk (aim for 60/40)  
+✅ Take notes (shows respect, captures details)  
+✅ Ask follow-up questions ("Tell me more about that...")  
+✅ Be authentic about being early-stage  
+✅ Make it about their success, not ours  
+✅ Confirm interest level explicitly  
+✅ Set clear next steps  
+✅ Send thank-you email within 24 hours
 
-**DON'T**:
-- ❌ Launch into a pitch immediately
-- ❌ Talk about price/packages too early
-- ❌ Assume you know what they want
-- ❌ Interrupt or talk over them
-- ❌ Push for a decision on the call
-- ❌ Over-promise capabilities
-- ❌ Be too formal or "salesy"
-- ❌ Make it about you, not them
-
----
-
-## Success Metrics for Discovery Phase
-
-**Call Booking Rate**:
-- Target: Schedule 8-12 calls out of 12 outreach = 66-100%
-- Measure: Calls actually booked on calendar
-
-**Call Completion Rate**:
-- Target: 80%+ of booked calls actually happen
-- Measure: No-show/reschedule rate
-
-**Interest Level**:
-- Target: 6+ prospects showing moderate to strong interest
-- Measure: Fit score of 3+ out of 5
-
-**Information Quality**:
-- Target: Clear budget and timeline data from 10/12 prospects
-- Measure: Notes completeness and clarity
-
-**Phase 2 Readiness**:
-- Target: 5-8 qualified prospects identified for Phase 2 pitching
-- Measure: Prospects with fit score 3.5+ and clear next steps
+### DON'T:
+❌ Launch into a sales pitch immediately  
+❌ Talk about pricing without understanding needs  
+❌ Make promises you can't keep  
+❌ Overstay the 45-minute window  
+❌ Be pushy if they're not interested  
+❌ Forget to follow up  
+❌ Bad-mouth competitors  
+❌ Assume budget constraints without asking
 
 ---
 
-*Last Updated: Aug 23, 2026*  
-*Ready for Aug 26 Discovery Call Launch*  
-*Next Phase: Aug 26-30 Discovery Execution → Sept 3-5 Synthesis*
+## SUCCESS INDICATORS
+
+**Strong calls end with**:
+- ✅ Specific next step confirmed (proposal date, call date)
+- ✅ Interest level clearly stated (even if "maybe")
+- ✅ Budget range discussed
+- ✅ Decision timeline understood
+- ✅ Contact for follow-up confirmed
+- ✅ Fit score 6+ (out of 10)
+
+**Weak calls**:
+- ❌ Vague next steps ("We'll be in touch")
+- ❌ Interest unclear
+- ❌ No budget discussion
+- ❌ Won't commit to timeline
+- ❌ Fit score 3-5
+
+---
+
+## TRACKING PROGRESS
+
+After each call, log in DISCOVERY_CALL_TRACKER.md:
+- Prospect name
+- Date/time
+- Fit score
+- Interest level
+- Next step + date
+- Budget range
+- Key insights
+
+**Aug 26-Sept 2**: Aim for 8-12 completed calls  
+**Success rate**: Target 60%+ showing moderate-strong interest
+
+---
+
+**Status**: ✅ Aug 24 Talking Points Complete - Ready for Aug 26 Calls  
+**Last Updated**: Aug 24, 2026
