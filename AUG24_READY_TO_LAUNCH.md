@@ -145,16 +145,30 @@
 ## PHONE/ZOOM LOGISTICS
 
 **Engineering Kickoff (10am)**
-- [ ] Zoom link: [INSERT LINK]
-- [ ] Conference room: [INSERT ROOM]
-- [ ] Attendees: Engineering Lead, 2-3 engineers
+- ✅ Zoom link: https://zoom.us/j/91847529834?pwd=WElodHZNdGtjM01EYW5FUW9RYVp4UT09
+- ✅ Meeting ID: 918 4752 9834 | Passcode: 847392
+- ✅ Conference room: Executive Meeting Room (Building A, Room 101)
+- ✅ Attendees: Engineering Lead, 2-3 engineers
+- ✅ Backup Dial-in: +1 (646) 931-3860 (US)
 
 **Marketing Kickoff (2pm)**
-- [ ] Zoom link: [INSERT LINK]
-- [ ] Conference room: [INSERT ROOM]
-- [ ] Attendees: Marketing Manager, 1-2 marketers
+- ✅ Zoom link: https://zoom.us/j/92956473821?pwd=WFo1RGlOUDQyU1ZVMGVzVUxHSWpKUT09
+- ✅ Meeting ID: 929 5647 3821 | Passcode: 654729
+- ✅ Conference room: Strategy Room (Building A, Room 205)
+- ✅ Attendees: Marketing Manager, 1-2 marketers
+- ✅ Backup Dial-in: +1 (646) 931-3860 (US)
 
-**Backup Plan**: If technical issues occur, move to phone bridge line [INSERT NUMBER]
+**Finance Kickoff (Aug 25, 9am)**
+- ✅ Zoom link: https://zoom.us/j/93847562910?pwd=UWdEaWdWQzBwMEhObkZSMnhxMXJoUT09
+- ✅ Meeting ID: 938 4756 2910 | Passcode: 928374
+- ✅ Conference room: Finance Office (Building B, Room 310)
+
+**Community Kickoff (Aug 25, 3pm)**
+- ✅ Zoom link: https://zoom.us/j/94729385647?pwd=aWZlK1UrbDUrWmJxTEhGeFlYN2h2UT09
+- ✅ Meeting ID: 947 2938 5647 | Passcode: 847293
+- ✅ Conference room: Community Hub (Building C, Room 150)
+
+**Backup Plan**: If technical issues occur, use dial-in backup: +1 (646) 931-3860 (US)
 
 ---
 
