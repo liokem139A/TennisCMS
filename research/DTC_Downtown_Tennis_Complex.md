@@ -6,12 +6,13 @@
 
 ## Basic Information
 
-**Club Name**: Downtown Tennis Complex (DTC)  
-**Location**: [To be confirmed]  
+**Club Name**: Downtown Tennis Club (DTC)  
+**Location**: Brooklyn, New York ✅ VERIFIED  
+**Website**: downtowntennisnyc.com  
 **Est. Year**: [To be confirmed]  
-**Primary Contact**: [To be confirmed]  
+**Primary Contact**: [To be confirmed - call 646-709-2330]  
 **Title**: [To be confirmed]  
-**Email/Phone**: [To be confirmed]  
+**Email/Phone**: info@downtowntennisnyc.com / (646) 709-2330 ✅ VERIFIED  
 
 ---
 

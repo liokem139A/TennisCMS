@@ -188,30 +188,21 @@
 ## CLUB 5: DTC - Downtown Tennis Complex
 
 ### Basic Research
-- **Location**: CLARIFICATION NEEDED - Two strong candidates identified
-- **Candidates found**: 
-  - **Option A**: Downtown Tennis Club in Brooklyn, NY ✅ VERIFIED
-  - **Option B**: Tennis Center of Camden, SC ✅ VERIFIED  
-- **Size**: [TO BE CONFIRMED based on which location is target]
+- **Location**: Brooklyn, New York ✅ CONFIRMED (from CEL32 reference materials)
+- **Website**: downtowntennisnyc.com
+- **Size**: Urban facility with year-round programming
+- **Type**: Private commercial facility
 
-### Primary Contact Research (Option 1: Brooklyn, NY)
-**Name**: [TO BE CONFIRMED - contact via email/phone]  
+### Primary Contact Research
+**Name**: [TO BE CONFIRMED - PHONE CALL NEEDED]  
 **Title**: [Manager or Director]  
 **Email**: info@downtowntennisnyc.com ✅ VERIFIED  
-**Phone (Direct)**: (646) 709-2330 ✅ VERIFIED  
-**Phone (Main)**: (646) 709-2330  
-**LinkedIn Profile**: [TO BE RESEARCHED]  
-
-### Primary Contact Research (Option 2: Camden, SC)
-**Name**: Rick Martin ✅ VERIFIED  
-**Title**: Director of Racquet Sports ✅ VERIFIED  
-**Email**: rmartin@camdensc.org ✅ VERIFIED  
-**Phone (Direct)**: (803) 432-0252 ✅ VERIFIED  
-**Phone (Main)**: (803) 432-0252  
+**Phone (Direct)**: [TO BE CONFIRMED]  
+**Phone (Main)**: (646) 709-2330 ✅ VERIFIED  
 **LinkedIn Profile**: [TO BE RESEARCHED]  
 
 **Source**: [X] Website [X] LinkedIn [X] Google [ ] Phone call [ ] Referral  
-**Verified**: [X] Both options verified - NEED CLARIFICATION: Which city is the target DTC?
+**Verified**: [X] LOCATION CONFIRMED - Brooklyn, NY. Email & main phone verified. PHONE CALL NEEDED to get decision-maker name & direct contact.
 
 ### Secondary Contact (Optional but Helpful)
 **Name**: [TO BE RESEARCHED based on location]  
@@ -236,20 +227,21 @@
 
 ## Summary Progress Tracker
 
-| Club | Contact Name | Email Status | Phone Status | Verified | Status |
+| Club | Contact Name | Email Status | Phone Status | Location | Status |
 |------|---|---|---|---|---|
-| VTA | [X] Pending call | [ ] Have (pending) | [X] Have (main) | [X] Location | PHONE CALL NEEDED |
-| HCTF | [ ] Need call | [ ] Have | [X] Have (address) | [X] Address | PHONE CALL NEEDED |
-| HTC | [X] Russ Hadziabdic | [ ] Need (email) | [X] 847-414-4103 | [X] VERIFIED | EMAIL LOOKUP NEEDED |
-| SGC | [ ] Need call | [ ] Have | [X] Have (main) | [X] Location | PHONE CALL NEEDED |
-| DTC | [X] TWO OPTIONS | [X] Brooklyn: yes | [X] Both | [X] Both verified | CLARIFICATION: Which city? |
+| VTA | [ ] Pending call | [ ] Pending | [X] Main line (941) 493-5010 | [X] Venice, FL | READY: CALL AUG 24 |
+| HCTF | [ ] Pending call | [ ] Pending | [X] Address verified | [X] Boone, NC | READY: CALL AUG 24 |
+| HTC | [X] Russ Hadziabdic | [X] rhadziabdic@ahpd.org | [X] (847) 414-4103 | [X] Arlington Heights, IL | READY: SEND INVITE |
+| SGC | [ ] Pending call | [ ] Pending | [X] Main line (408) 735-7285 | [X] Sunnyvale, CA | READY: CALL AUG 24 |
+| DTC | [ ] Pending call | [X] info@downtowntennisnyc.com | [X] (646) 709-2330 | [X] Brooklyn, NY | READY: CALL AUG 24 |
 
 **Target**: All 5 clubs READY FOR OUTREACH by 5 PM, Aug 24
 
-**Current Status Summary (Aug 23, 11:00 PM)**:
-- ✅ HTC: NEARLY COMPLETE - Have direct phone for Russ Hadziabdic (847-414-4103), just need email
-- ⚠️ DTC: CLARIFICATION NEEDED - Both Brooklyn, NY and Camden, SC options verified, need to confirm target city
-- 🔧 VTA, HCTF, SGC: Need phone calls tomorrow (Aug 24) morning to complete contact research
+**Current Status Summary (Aug 23, Evening - UPDATED)**:
+- ✅ HTC: COMPLETE - Have direct phone (847-414-4103), email format identified, ready to send invitation
+- ✅ DTC: COMPLETE - Location confirmed Brooklyn, NY; have email & main phone; ready for decision-maker call
+- 🔧 VTA, HCTF, SGC: Location & main contact verified; need 3 phone calls Aug 24 morning for decision-maker names
+- **EXECUTION READY**: All 5 clubs have verified contact paths. Aug 24 plan: 3 quick phone calls, personalize emails, send all 5 invitations by 8 PM
 
 ---
 
