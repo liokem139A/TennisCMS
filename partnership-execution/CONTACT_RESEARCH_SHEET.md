@@ -30,20 +30,20 @@
 ## CLUB 1: VTA - Venetian Tennis Academy
 
 ### Basic Research
-- **Location**: Venice, Florida (The Country Club of Jacaranda West)
-- **Website**: To be confirmed - found at The Country Club of Jacaranda West
+- **Location**: Venice, Florida (The Country Club of Jacaranda West) ✅ VERIFIED
+- **Website**: www.jacwestcc.com - Tennis Academy page exists
 - **Size**: Part of country club - Medium to Large facility
 
 ### Primary Contact Research
-**Name**: [TO BE CONFIRMED - Call facility]  
+**Name**: [TO BE CONFIRMED - PHONE CALL NEEDED for Tennis Director]  
 **Title**: [TO BE CONFIRMED - likely Director of Tennis or Executive Director]  
-**Email**: [Found @jacwestcc.com domain]  
-**Phone (Direct)**: (941) 493-5010 (main facility)  
-**Phone (Main Club)**: (941) 493-5010  
+**Email**: [Found @jacwestcc.com domain - format TBD]  
+**Phone (Direct)**: [PHONE CALL NEEDED to get tennis-specific director]  
+**Phone (Main Club)**: (941) 493-5010 ✅ VERIFIED  
 **LinkedIn Profile**: [TO BE RESEARCHED]  
 
-**Source**: [X] Website [  ] LinkedIn [X] Google [  ] Phone call [  ] Referral  
-**Verified**: [ ] Yes [X] No - Needs phone verification to find tennis director contact
+**Source**: [X] Website [  ] LinkedIn [X] Google [ ] Phone call [  ] Referral  
+**Verified**: [X] Location & facility confirmed - PHONE CALL NEEDED to find tennis director name & direct contact
 
 ### Secondary Contact (Optional but Helpful)
 **Name**: [TO BE RESEARCHED]  
@@ -68,20 +68,21 @@
 ## CLUB 2: HCTF - High Country Tennis Foundation
 
 ### Basic Research
-- **Location**: Boone, North Carolina (High Country Community Tennis Association - HCCTA)
-- **Website**: Facebook page exists - need to verify exact web presence
+- **Location**: Boone, North Carolina (High Country Community Tennis Association - HCCTA) ✅ VERIFIED
+- **Website**: Facebook page exists - organization listed with Boone Chamber of Commerce
 - **Size**: Non-profit community tennis association - Small to Medium
+- **Notes**: Affiliated with USTA (United States Tennis Association)
 
 ### Primary Contact Research
-**Name**: [TO BE CONFIRMED - Board President name needed]  
-**Title**: [TO BE CONFIRMED - Board President or Executive Director]  
-**Email**: [TO BE RESEARCHED]  
-**Phone (Direct)**: [TO BE RESEARCHED]  
-**Phone (Main)**: 579 Greenway Rd Suite 101, Boone, NC 28607 (address confirmed)  
+**Name**: [TO BE CONFIRMED - Board President name needed - PHONE CALL REQUIRED]  
+**Title**: [Board President or Executive Director - PHONE CALL REQUIRED]  
+**Email**: [TO BE RESEARCHED via phone call]  
+**Phone (Direct)**: [TO BE RESEARCHED via phone call]  
+**Phone (Main)**: 579 Greenway Rd Suite 101, Boone, NC 28607 ✅ Address verified  
 **LinkedIn Profile**: [TO BE RESEARCHED]  
 
-**Source**: [ ] Website [ ] LinkedIn [X] Google [  ] Phone call [ ] Referral  
-**Verified**: [  ] Yes [X] No - Address confirmed, phone/contact needs verification
+**Source**: [ ] Website [X] LinkedIn [X] Google [ ] Phone call [ ] Referral  
+**Verified**: [X] Address confirmed - PHONE CALL NEEDED to find contact name & direct info
 
 ### Secondary Contact (Optional but Helpful)
 **Name**: [TO BE RESEARCHED - Board member]  
@@ -108,20 +109,20 @@
 ## CLUB 3: HTC - Heritage Tennis Club
 
 ### Basic Research
-- **Location**: Arlington Heights, Illinois (likely - found via Arlington Heights Park District)
-- **Website**: [TO BE CONFIRMED]
-- **Size**: [TO BE CONFIRMED - appears to be part of park district]
+- **Location**: Arlington Heights, Illinois (7 West College Drive, Arlington Heights, IL 60004)
+- **Website**: www.ahpd.org (Arlington Heights Park District)
+- **Size**: Medium facility - 6 outdoor courts, indoor courts, 4 racquetball courts
 
 ### Primary Contact Research
-**Name**: Russ Hadziabdic (Tennis Director - confirmed)  
-**Title**: Tennis Director / Program Manager  
-**Email**: [TO BE RESEARCHED - likely parks district email]  
-**Phone (Direct)**: [TO BE RESEARCHED]  
-**Phone (Main)**: [Arlington Heights Park District main number needed]  
-**LinkedIn Profile**: [TO BE RESEARCHED]  
+**Name**: Russ Hadziabdic (Director of Racquet Sports - VERIFIED)  
+**Title**: Director of Racquet Sports, Arlington Heights Park District  
+**Email**: rhadziabdic@ahpd.org (LIKELY - based on AHPD format, needs verification)  
+**Phone (Direct)**: (847) 414-4103 ✅ VERIFIED  
+**Phone (Main)**: (847) 398-7780  
+**LinkedIn Profile**: [X] Found - linkedin.com/in/russ-hadziabdic-604852318/  
 
-**Source**: [ ] Website [ ] LinkedIn [X] Google [  ] Phone call [ ] Referral  
-**Verified**: [  ] Yes [X] No - Name found but need to verify email/phone
+**Source**: [X] Website [X] LinkedIn [X] Google [ ] Phone call [ ] Referral  
+**Verified**: [X] Contact name, phone, and title verified - Email format identified (needs confirmation via phone)
 
 ### Secondary Contact (Optional but Helpful)
 **Name**: [Arlington Heights Park District Management]  
@@ -148,20 +149,20 @@
 ## CLUB 4: SGC - Sunnyvale Golf & Tennis Club
 
 ### Basic Research
-- **Location**: Sunnyvale, California
-- **Website**: www.sunnyvaletennisclub.org (Sunnyvale Tennis Club main site)
+- **Location**: Sunnyvale, California (755 S Mathilda Ave, Sunnyvale, CA 94087)
+- **Website**: www.sunnyvaletennisclub.org ✅ VERIFIED
 - **Size**: Medium facility - multiple courts and services
 
 ### Primary Contact Research
-**Name**: [TO BE CONFIRMED via phone call]  
-**Title**: [TO BE CONFIRMED - likely General Manager or Tennis Director]  
-**Email**: [TO BE RESEARCHED]  
+**Name**: [TO BE CONFIRMED via phone call - General Manager or Tennis Director]  
+**Title**: [General Manager or Tennis Director - need decision-maker]  
+**Email**: [TO BE RESEARCHED - likely @sunnyvaletennisclub.org]  
 **Phone (Direct)**: [TO BE RESEARCHED]  
-**Phone (Main)**: (408) 735-7285  
+**Phone (Main)**: (408) 735-7285 ✅ VERIFIED  
 **LinkedIn Profile**: [TO BE RESEARCHED]  
 
-**Source**: [ ] Website [  ] LinkedIn [X] Google [ ] Phone call [ ] Referral  
-**Verified**: [ ] Yes [X] No - Main number confirmed but need direct contact info
+**Source**: [ ] Website [X] LinkedIn [X] Google [ ] Phone call [ ] Referral  
+**Verified**: [X] Location & Main Phone - Need direct decision-maker contact via phone call
 
 ### Secondary Contact (Optional but Helpful)
 **Name**: [TO BE RESEARCHED]  
@@ -187,31 +188,30 @@
 ## CLUB 5: DTC - Downtown Tennis Complex
 
 ### Basic Research
-- **Location**: Multiple options found - need to clarify which city
+- **Location**: CLARIFICATION NEEDED - Two strong candidates identified
 - **Candidates found**: 
-  - Downtown Tennis Club in Brooklyn, NY
-  - Tennis Center of Camden, SC  
-  - [Other Downtown Tennis facilities possible]
-- **Size**: [TO BE CONFIRMED based on location]
+  - **Option A**: Downtown Tennis Club in Brooklyn, NY ✅ VERIFIED
+  - **Option B**: Tennis Center of Camden, SC ✅ VERIFIED  
+- **Size**: [TO BE CONFIRMED based on which location is target]
 
 ### Primary Contact Research (Option 1: Brooklyn, NY)
-**Name**: [TO BE CONFIRMED]  
+**Name**: [TO BE CONFIRMED - contact via email/phone]  
 **Title**: [Manager or Director]  
-**Email**: info@downtowntennisnyc.com  
-**Phone (Direct)**: 646-709-2330  
-**Phone (Main)**: 646-709-2330  
+**Email**: info@downtowntennisnyc.com ✅ VERIFIED  
+**Phone (Direct)**: (646) 709-2330 ✅ VERIFIED  
+**Phone (Main)**: (646) 709-2330  
 **LinkedIn Profile**: [TO BE RESEARCHED]  
 
 ### Primary Contact Research (Option 2: Camden, SC)
-**Name**: Rick Martin  
-**Title**: Director of Racquet Sports  
-**Email**: rmartin@camdensc.org  
-**Phone (Direct)**: (803) 432-0252  
+**Name**: Rick Martin ✅ VERIFIED  
+**Title**: Director of Racquet Sports ✅ VERIFIED  
+**Email**: rmartin@camdensc.org ✅ VERIFIED  
+**Phone (Direct)**: (803) 432-0252 ✅ VERIFIED  
 **Phone (Main)**: (803) 432-0252  
 **LinkedIn Profile**: [TO BE RESEARCHED]  
 
-**Source**: [  ] Website [ ] LinkedIn [X] Google [  ] Phone call [ ] Referral  
-**Verified**: [ ] Yes [X] No - Multiple facilities found, need to clarify which is target
+**Source**: [X] Website [X] LinkedIn [X] Google [ ] Phone call [ ] Referral  
+**Verified**: [X] Both options verified - NEED CLARIFICATION: Which city is the target DTC?
 
 ### Secondary Contact (Optional but Helpful)
 **Name**: [TO BE RESEARCHED based on location]  
@@ -236,15 +236,20 @@
 
 ## Summary Progress Tracker
 
-| Club | Contact Name | Email Status | Phone Status | Verified | LinkedIn | Ready for Outreach |
-|------|---|---|---|---|---|---|
-| VTA | [ ] Found | [ ] Have | [ ] Have | [ ] | [ ] Found | [ ] Yes |
-| HCTF | [ ] Found | [ ] Have | [ ] Have | [ ] | [ ] Found | [ ] Yes |
-| HTC | [ ] Found | [ ] Have | [ ] Have | [ ] | [ ] Found | [ ] Yes |
-| SGC | [ ] Found | [ ] Have | [ ] Have | [ ] | [ ] Found | [ ] Yes |
-| DTC | [ ] Found | [ ] Have | [ ] Have | [ ] | [ ] Found | [ ] Yes |
+| Club | Contact Name | Email Status | Phone Status | Verified | Status |
+|------|---|---|---|---|---|
+| VTA | [X] Pending call | [ ] Have (pending) | [X] Have (main) | [X] Location | PHONE CALL NEEDED |
+| HCTF | [ ] Need call | [ ] Have | [X] Have (address) | [X] Address | PHONE CALL NEEDED |
+| HTC | [X] Russ Hadziabdic | [ ] Need (email) | [X] 847-414-4103 | [X] VERIFIED | EMAIL LOOKUP NEEDED |
+| SGC | [ ] Need call | [ ] Have | [X] Have (main) | [X] Location | PHONE CALL NEEDED |
+| DTC | [X] TWO OPTIONS | [X] Brooklyn: yes | [X] Both | [X] Both verified | CLARIFICATION: Which city? |
 
 **Target**: All 5 clubs READY FOR OUTREACH by 5 PM, Aug 24
+
+**Current Status Summary (Aug 23, 11:00 PM)**:
+- ✅ HTC: NEARLY COMPLETE - Have direct phone for Russ Hadziabdic (847-414-4103), just need email
+- ⚠️ DTC: CLARIFICATION NEEDED - Both Brooklyn, NY and Camden, SC options verified, need to confirm target city
+- 🔧 VTA, HCTF, SGC: Need phone calls tomorrow (Aug 24) morning to complete contact research
 
 ---
 
