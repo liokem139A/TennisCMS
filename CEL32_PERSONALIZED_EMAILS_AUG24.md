@@ -215,9 +215,21 @@ Before sending tomorrow (Aug 24 @ 2:00 PM):
 
 **Send Time**: 2:00 PM EST (peak email open window)
 
-**From**: [Your name, title]
+**From**: Business Development Lead, Celadon Tennis
 
-**Reply-to**: [Your email address]
+**Reply-to**: tnguyen205@dxc.com
+
+---
+
+## SENDER DETAILS (FINAL CONFIGURATION)
+
+**Sender Name**: Business Development Lead (Celadon Tennis)  
+**Sender Email**: tnguyen205@dxc.com  
+**Sender Phone**: [CONFIRMATION NEEDED]  
+**Company**: Celadon Tennis  
+**Website**: [CONFIRMATION NEEDED]  
+**Calendly Link**: [CONFIRMATION NEEDED]  
+**Resource Link (1-pager/case study)**: [CONFIRMATION NEEDED]
 
 ---
 
