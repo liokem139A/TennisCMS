@@ -45,7 +45,11 @@ app.get('/api/v1', (_req: Request, res: Response) => {
 });
 
 // Routes
-// TODO: Mount API routes here
+import matchRoutes from '@/routes/match.routes';
+
+// Mount API routes
+app.use('/api/v1/matches', matchRoutes);
+// TODO: Mount additional routes
 // app.use('/api/v1/clubs', clubRoutes);
 // app.use('/api/v1/tournaments', tournamentRoutes);
 // app.use('/api/v1/users', userRoutes);
