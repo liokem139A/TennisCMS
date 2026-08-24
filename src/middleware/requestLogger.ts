@@ -1,5 +1,5 @@
 import { type Request, type Response, type NextFunction } from 'express';
-import { v4 as uuidv4 } from 'crypto';
+import { v4 as uuidv4 } from 'uuid';
 import { logger } from '@/utils/logger';
 
 export const requestLogger = (req: Request, _res: Response, next: NextFunction): void => {

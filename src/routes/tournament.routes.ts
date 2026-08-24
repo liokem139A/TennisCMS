@@ -126,11 +126,22 @@ export function createTournamentRoutes(db: Pool): Router {
    */
   router.get('/', async (req: Request, res: Response, next: NextFunction) => {
     try {
+      // Parse status filter - can be single or multiple values
+      let statusFilter: string[] | undefined;
+      if (req.query.status) {
+        statusFilter = Array.isArray(req.query.status)
+          ? (req.query.status as string[])
+          : [req.query.status as string];
+      }
+
+      // Parse skill level filter - single value
+      const skillLevelFilter = req.query.skillLevel ? (req.query.skillLevel as string) : undefined;
+
       const filters: TournamentFilterOptions = {
-        status: req.query.status ? (Array.isArray(req.query.status) ? req.query.status : [req.query.status]) : undefined,
+        status: statusFilter as any,
         organizerId: req.query.organizerId as string,
         clubId: req.query.clubId as string,
-        skillLevel: req.query.skillLevel as string,
+        skillLevel: skillLevelFilter as any,
         search: req.query.search as string,
         page: req.query.page ? parseInt(req.query.page as string, 10) : 1,
         limit: req.query.limit ? parseInt(req.query.limit as string, 10) : 20,
