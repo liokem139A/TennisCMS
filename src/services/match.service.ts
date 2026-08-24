@@ -416,6 +416,15 @@ export class MatchService {
       throw new InvalidMatchStateError(`Set ${data.set_number} not found`);
     }
 
+    // Guard against double-counting: completing an already-closed set would
+    // otherwise increment sets_won again and could complete the match early.
+    if (setRecord.set_winner_id) {
+      throw new InvalidMatchStateError(`Set ${data.set_number} is already complete`);
+    }
+
+    // The recorded score must actually win the set for the declared winner.
+    this.validateSetCompletion(setRecord, data.winner_id, match);
+
     setRecord.set_winner_id = data.winner_id;
     setRecord.completed_at = new Date();
     setRecord.updated_at = new Date();
@@ -718,6 +727,15 @@ export class MatchService {
     }
   }
 
+  /**
+   * Validate a score that is being *recorded* mid-set.
+   *
+   * This only rejects scores that are unreachable under tennis rules. It
+   * deliberately does NOT enforce the 2-game-lead win condition, because
+   * in-progress scores such as 6-5 or 6-6 are legal to record but do not
+   * yet win the set. The win condition is checked in
+   * `validateSetCompletion` when a set is closed out.
+   */
   private validateScore(
     player1Games: number,
     player2Games: number,
@@ -725,49 +743,108 @@ export class MatchService {
     tiebreakP1Points?: number,
     tiebreakP2Points?: number
   ): void {
-    // Basic validation
+    if (!Number.isInteger(player1Games) || !Number.isInteger(player2Games)) {
+      throw new InvalidScoreError('Game scores must be whole numbers');
+    }
+
     if (player1Games < 0 || player2Games < 0) {
       throw new InvalidScoreError('Game scores cannot be negative');
     }
 
+    const maxGames = Math.max(player1Games, player2Games);
+    const minGames = Math.min(player1Games, player2Games);
+
+    // A set never goes past 7 games for either player: 7-5, or 7-6 via tiebreak.
+    const maxGamesInSet = TENNIS_RULES.MIN_GAMES_TO_WIN_SET + 1;
+    if (maxGames > maxGamesInSet) {
+      throw new InvalidScoreError(
+        `Game count exceeds maximum of ${maxGamesInSet} for a set`
+      );
+    }
+
+    // 7 games is only reachable from 6-5 (→7-5) or 6-6 (→7-6).
+    if (maxGames === maxGamesInSet && minGames < TENNIS_RULES.MAX_GAMES_WITHOUT_TIEBREAK) {
+      throw new InvalidScoreError(
+        `A set score of ${maxGames}-${minGames} is not reachable under tennis scoring rules`
+      );
+    }
+
     if (isTiebreak) {
-      // Tiebreak validation
-      if (
-        !tiebreakP1Points ||
-        !tiebreakP2Points ||
-        tiebreakP1Points < 0 ||
-        tiebreakP2Points < 0
-      ) {
-        throw new InvalidScoreError('Invalid tiebreak points');
+      // 0 is a legal tiebreak point total (e.g. a 7-0 tiebreak), so these
+      // must be undefined-checks rather than falsiness checks.
+      if (tiebreakP1Points === undefined || tiebreakP2Points === undefined) {
+        throw new InvalidScoreError('Tiebreak points are required for a tiebreak set');
       }
 
-      // At least one player should have 7+ points or be within 1 point at 6+
+      if (!Number.isInteger(tiebreakP1Points) || !Number.isInteger(tiebreakP2Points)) {
+        throw new InvalidScoreError('Tiebreak points must be whole numbers');
+      }
+
+      if (tiebreakP1Points < 0 || tiebreakP2Points < 0) {
+        throw new InvalidScoreError('Tiebreak points cannot be negative');
+      }
+
+      // Past 7 points a tiebreak continues until someone leads by 2, so the
+      // margin can never exceed 2 (9-7 is legal, 9-5 is not).
       const maxPoints = Math.max(tiebreakP1Points, tiebreakP2Points);
       const minPoints = Math.min(tiebreakP1Points, tiebreakP2Points);
-      if (maxPoints < TENNIS_RULES.TIEBREAK_WINNING_POINTS) {
-        if (maxPoints < TENNIS_RULES.TIEBREAK_WINNING_POINTS - 1) {
-          throw new InvalidScoreError('Invalid tiebreak score progression');
-        }
+      if (
+        maxPoints > TENNIS_RULES.TIEBREAK_WINNING_POINTS &&
+        maxPoints - minPoints > TENNIS_RULES.TIEBREAK_MIN_LEAD
+      ) {
+        throw new InvalidScoreError(
+          `Tiebreak score ${maxPoints}-${minPoints} is not reachable under tennis scoring rules`
+        );
       }
-    } else {
-      // Regular set validation
-      if (player1Games > TENNIS_RULES.MIN_GAMES_TO_WIN_SET + 1 ||
-        player2Games > TENNIS_RULES.MIN_GAMES_TO_WIN_SET + 1) {
-        throw new InvalidScoreError('Game count exceeds maximum for regular set');
+    }
+  }
+
+  /**
+   * Verify a set's recorded score actually constitutes a win for the
+   * declared winner before the set is closed out.
+   */
+  private validateSetCompletion(set: IMatchSet, winnerId: string, match: IMatch): void {
+    const winnerIsPlayer1 = winnerId === match.player1_id;
+    const winnerGames = winnerIsPlayer1 ? set.player1_games : set.player2_games;
+    const loserGames = winnerIsPlayer1 ? set.player2_games : set.player1_games;
+
+    if (winnerGames <= loserGames) {
+      throw new InvalidScoreError(
+        `Declared set winner does not lead the set (${winnerGames}-${loserGames})`
+      );
+    }
+
+    if (winnerGames < TENNIS_RULES.MIN_GAMES_TO_WIN_SET) {
+      throw new InvalidScoreError(
+        `Set winner needs at least ${TENNIS_RULES.MIN_GAMES_TO_WIN_SET} games (has ${winnerGames})`
+      );
+    }
+
+    if (set.is_tiebreak) {
+      const { tiebreak_player1_points: tb1, tiebreak_player2_points: tb2 } = set;
+      if (tb1 === undefined || tb2 === undefined) {
+        throw new InvalidScoreError('Tiebreak set is missing tiebreak points');
       }
 
-      // Check valid win conditions
-      const maxGames = Math.max(player1Games, player2Games);
-      const minGames = Math.min(player1Games, player2Games);
-
-      if (maxGames >= TENNIS_RULES.MIN_GAMES_TO_WIN_SET) {
-        const lead = maxGames - minGames;
-        if (lead < TENNIS_RULES.MIN_GAME_LEAD_FOR_WIN) {
-          throw new InvalidScoreError(
-            `Leading player needs 2-game lead (current: ${lead})`
-          );
-        }
+      const winnerPoints = winnerIsPlayer1 ? tb1 : tb2;
+      const loserPoints = winnerIsPlayer1 ? tb2 : tb1;
+      if (
+        winnerPoints < TENNIS_RULES.TIEBREAK_WINNING_POINTS ||
+        winnerPoints - loserPoints < TENNIS_RULES.TIEBREAK_MIN_LEAD
+      ) {
+        throw new InvalidScoreError(
+          `Tiebreak winner needs ${TENNIS_RULES.TIEBREAK_WINNING_POINTS}+ points with a ` +
+            `${TENNIS_RULES.TIEBREAK_MIN_LEAD}-point lead (current: ${winnerPoints}-${loserPoints})`
+        );
       }
+      return;
+    }
+
+    const lead = winnerGames - loserGames;
+    if (lead < TENNIS_RULES.MIN_GAME_LEAD_FOR_WIN) {
+      throw new InvalidScoreError(
+        `Set winner needs a ${TENNIS_RULES.MIN_GAME_LEAD_FOR_WIN}-game lead or a tiebreak win (current lead: ${lead})`
+      );
     }
   }
 
