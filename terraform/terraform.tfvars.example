@@ -1,0 +1,37 @@
+# AWS Region
+aws_region = "us-east-1"
+
+# Environment: development, staging, or production
+environment = "production"
+
+# Project Name
+project_name = "tennis-cms"
+
+# VPC Configuration
+vpc_cidr = "10.0.0.0/16"
+
+# RDS Database Configuration
+db_instance_class     = "db.t3.medium"    # Start with t3.medium, upgrade as needed
+db_allocated_storage  = 100               # GB
+db_name              = "celadon"
+db_username          = "celadon_app"
+db_password          = "CHANGE_THIS_TO_STRONG_PASSWORD"  # Use AWS Secrets Manager in production
+
+# Database Backup & Availability
+enable_multi_az            = true   # For production, always enable
+backup_retention_period    = 30     # 30 days of backups
+enable_cloudwatch_logs     = true   # Enable database logs
+
+# ElastiCache Redis Configuration
+redis_node_type       = "cache.t3.micro"   # Start with micro, upgrade as needed
+redis_num_cache_nodes = 1                   # Use 1 for development, 2+ for production with automatic failover
+redis_engine_version  = "7.0"               # Redis 7.0
+
+# Tags
+tags = {
+  Project     = "TennisCMS"
+  ManagedBy   = "Terraform"
+  Environment = "production"
+  Owner       = "Backend Team"
+  CostCenter  = "Engineering"
+}
