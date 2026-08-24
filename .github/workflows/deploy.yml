@@ -1,0 +1,198 @@
+name: Deploy to Production
+
+on:
+  push:
+    branches: [main]
+    tags: ['v*']
+  workflow_dispatch:
+    inputs:
+      environment:
+        description: 'Environment to deploy to'
+        required: true
+        default: 'staging'
+        type: choice
+        options:
+          - staging
+          - production
+
+env:
+  REGISTRY: ghcr.io
+  NODE_VERSION: '18'
+
+jobs:
+  # Determine deployment target
+  setup:
+    name: Setup Deployment
+    runs-on: ubuntu-latest
+    outputs:
+      environment: ${{ steps.deploy-env.outputs.environment }}
+      tag: ${{ steps.meta.outputs.tags }}
+    steps:
+      - name: Determine environment
+        id: deploy-env
+        run: |
+          if [[ "${{ github.event_name }}" == "workflow_dispatch" ]]; then
+            echo "environment=${{ github.event.inputs.environment }}" >> $GITHUB_OUTPUT
+          elif [[ "${{ github.ref }}" == "refs/heads/main" ]]; then
+            echo "environment=production" >> $GITHUB_OUTPUT
+          else
+            echo "environment=staging" >> $GITHUB_OUTPUT
+          fi
+
+      - name: Set Docker tag
+        id: meta
+        run: |
+          if [[ "${{ github.ref }}" == refs/tags/* ]]; then
+            TAG=${GITHUB_REF#refs/tags/}
+          else
+            TAG=${{ github.sha }}
+          fi
+          echo "tags=${{ env.REGISTRY }}/${{ github.repository }}:${TAG}" >> $GITHUB_OUTPUT
+
+  # Database migration job
+  migrate:
+    name: Database Migration
+    runs-on: ubuntu-latest
+    needs: setup
+    environment: ${{ needs.setup.outputs.environment }}
+    steps:
+      - uses: actions/checkout@v4
+
+      - name: Setup Node.js
+        uses: actions/setup-node@v4
+        with:
+          node-version: ${{ env.NODE_VERSION }}
+          cache: 'npm'
+
+      - name: Install dependencies
+        run: npm ci
+
+      - name: Run database migrations
+        env:
+          DATABASE_URL: ${{ secrets.DATABASE_URL }}
+        run: npm run migrate:prod
+        continue-on-error: false
+
+  # Deploy application
+  deploy:
+    name: Deploy Application
+    runs-on: ubuntu-latest
+    needs: [setup, migrate]
+    environment: ${{ needs.setup.outputs.environment }}
+    permissions:
+      contents: read
+      packages: read
+    steps:
+      - uses: actions/checkout@v4
+
+      - name: Log in to Container Registry
+        uses: docker/login-action@v2
+        with:
+          registry: ${{ env.REGISTRY }}
+          username: ${{ github.actor }}
+          password: ${{ secrets.GITHUB_TOKEN }}
+
+      - name: Deploy to AWS ECS
+        if: ${{ needs.setup.outputs.environment == 'production' }}
+        env:
+          AWS_REGION: ${{ secrets.AWS_REGION }}
+          AWS_ACCESS_KEY_ID: ${{ secrets.AWS_ACCESS_KEY_ID }}
+          AWS_SECRET_ACCESS_KEY: ${{ secrets.AWS_SECRET_ACCESS_KEY }}
+          ECS_CLUSTER: ${{ secrets.ECS_CLUSTER_PROD }}
+          ECS_SERVICE: tennis-api-prod
+          ECS_TASK_DEFINITION: tennis-api-prod
+        run: |
+          aws ecs update-service \
+            --cluster $ECS_CLUSTER \
+            --service $ECS_SERVICE \
+            --region $AWS_REGION \
+            --force-new-deployment
+
+      - name: Deploy to Staging
+        if: ${{ needs.setup.outputs.environment == 'staging' }}
+        env:
+          AWS_REGION: ${{ secrets.AWS_REGION }}
+          AWS_ACCESS_KEY_ID: ${{ secrets.AWS_ACCESS_KEY_ID }}
+          AWS_SECRET_ACCESS_KEY: ${{ secrets.AWS_SECRET_ACCESS_KEY }}
+          ECS_CLUSTER: ${{ secrets.ECS_CLUSTER_STAGING }}
+          ECS_SERVICE: tennis-api-staging
+          ECS_TASK_DEFINITION: tennis-api-staging
+        run: |
+          aws ecs update-service \
+            --cluster $ECS_CLUSTER \
+            --service $ECS_SERVICE \
+            --region $AWS_REGION \
+            --force-new-deployment
+
+      - name: Health check
+        env:
+          HEALTH_CHECK_URL: ${{ secrets.HEALTH_CHECK_URL }}
+        run: |
+          for i in {1..30}; do
+            if curl -f "$HEALTH_CHECK_URL/health" > /dev/null 2>&1; then
+              echo "✅ Health check passed"
+              exit 0
+            fi
+            echo "Attempt $i: Waiting for service to be healthy..."
+            sleep 10
+          done
+          echo "❌ Health check failed after 5 minutes"
+          exit 1
+
+  # Smoke tests post-deployment
+  smoke-test:
+    name: Post-Deployment Smoke Tests
+    runs-on: ubuntu-latest
+    needs: deploy
+    steps:
+      - uses: actions/checkout@v4
+
+      - name: Setup Node.js
+        uses: actions/setup-node@v4
+        with:
+          node-version: ${{ env.NODE_VERSION }}
+          cache: 'npm'
+
+      - name: Install dependencies
+        run: npm ci
+
+      - name: Run smoke tests
+        env:
+          API_URL: ${{ secrets.API_URL }}
+          API_KEY: ${{ secrets.API_KEY }}
+        run: npm run test:smoke
+
+  # Notify deployment status
+  notify:
+    name: Notify Deployment
+    runs-on: ubuntu-latest
+    needs: [setup, deploy, smoke-test]
+    if: always()
+    steps:
+      - name: Deployment status
+        run: |
+          if [[ "${{ needs.deploy.result }}" == "success" && "${{ needs.smoke-test.result }}" == "success" ]]; then
+            echo "✅ Deployment successful to ${{ needs.setup.outputs.environment }}"
+          else
+            echo "❌ Deployment failed"
+            exit 1
+          fi
+
+      - name: Notify Slack
+        uses: slackapi/slack-github-action@v1
+        if: always()
+        with:
+          webhook-url: ${{ secrets.SLACK_WEBHOOK }}
+          payload: |
+            {
+              "text": "${{ needs.deploy.result == 'success' && '✅ Deployment Successful' || '❌ Deployment Failed' }}",
+              "blocks": [
+                {
+                  "type": "section",
+                  "text": {
+                    "type": "mrkdwn",
+                    "text": "*Deployment to ${{ needs.setup.outputs.environment }}*\nStatus: ${{ needs.deploy.result == 'success' && '✅ Success' || '❌ Failed' }}\n<${{ github.server_url }}/${{ github.repository }}/actions/runs/${{ github.run_id }}|View run>"
+                  }
+                }
+              ]
+            }
