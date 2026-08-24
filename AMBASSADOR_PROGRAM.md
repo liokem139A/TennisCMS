@@ -1,10 +1,13 @@
 # Tennis Community Ambassador Program
 
 **Program Owner**: Product Manager  
-**Launch Date**: September 6, 2026  
+**Portal MVP Launch**: September 6, 2026  
+**Portal Full Launch**: September 11, 2026
 **Design Phase**: August 24 - September 5, 2026  
+**Recruitment Phase**: September 6 - September 11, 2026 (COMPRESSED)
 **Target**: 50-100 Ambassadors  
-**Timeline**: August 24 - September 30, 2026
+**Timeline**: August 24 - September 11, 2026 (Go-live Sept 12)
+**Status**: ✅ Phase 1 Design COMPLETE | 🚀 Phase 1.5 Recruitment LIVE
 
 ---
 

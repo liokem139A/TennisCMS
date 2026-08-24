@@ -1,9 +1,10 @@
 # Ambassador Portal & Dashboard - Technical Specifications
 
 **Purpose**: Define features, architecture, and technical requirements for ambassador portal  
-**Timeline**: MVP launch Sept 1, 2026; Full launch Oct 15, 2026  
+**Timeline**: MVP launch Sept 6, 2026; Full launch Sept 11, 2026 (COMPRESSED TIMELINE)
 **Audience**: Product, engineering, design teams  
 **Owner**: Engineering Lead + Product Manager
+**Status**: Phase 1 Design COMPLETE | Engineering Sprint ACTIVE (Aug 24-Sept 11)
 
 ---
 
@@ -21,16 +22,18 @@ The Ambassador Portal is a web and mobile-responsive application that enables:
 - Program Team (5-7 admins)
 
 **Success Criteria**
-- MVP launched by Sept 1, 2026
+- MVP launched by Sept 6, 2026 (for Phase 2 recruitment)
+- Full feature set by Sept 11, 2026 (go-live Sept 12)
 - 95% uptime
 - <2 second page load time
 - Mobile responsive (works on iOS and Android)
 - Accessible (WCAG 2.1 AA compliance)
 - Secure (SSL/TLS, 2FA, secure authentication)
+- **COMPRESSED SPRINT**: Aug 24 - Sept 11 (3-week intensive build & launch)
 
 ---
 
-## MVP Feature Set (Sept 1 Launch)
+## MVP Feature Set (Sept 6 Launch — COMPRESSED TIMELINE)
 
 ### 1. User Authentication & Profile Management
 
