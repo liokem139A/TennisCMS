@@ -2,10 +2,11 @@
 
 **Issue ID**: CEL-11  
 **Title**: Build Tournament Management APIs (CRUD)  
-**Status**: IN_PROGRESS (Phase 1 Complete, Awaiting Review & Testing)  
+**Status**: BLOCKED (Phase 1 Complete, Phase 2 Blocked on CEL-4)  
 **Priority**: HIGH  
-**Updated**: August 24, 2026 - 15:45 UTC  
-**Owner**: Backend & Infrastructure Lead
+**Updated**: August 24, 2026 - 15:53 UTC  
+**Owner**: Backend & Infrastructure Lead  
+**Blocker**: CEL-4 (Core MVP Framework) — requires Jest testing framework, Express/Fastify app structure, and staging deployment pipeline before Phase 2 can proceed
 
 ---
 
@@ -326,8 +327,8 @@ Valid transitions enforced
 - Concurrent access testing
 
 ### Dependencies Status
-- **CEL-4** (Core MVP Features): ✅ Unblocked
-- **CEL-9** (User Registration & Auth): ✅ Unblocked
+- **CEL-4** (Core MVP Framework): 🚫 BLOCKING - Phase 2 cannot proceed without Jest testing framework, Express/Fastify app structure, and staging deployment pipeline
+- **CEL-9** (User Registration & Auth): ✅ Unblocked (Phase 1 only)
 
 ---
 
@@ -450,19 +451,24 @@ Before approving Phase 1, verify:
 
 ## Issue Disposition
 
-**Current Status**: `in_progress`
+**Current Status**: `blocked`
 
-**Reasons to keep in_progress**:
+**Reason for BLOCKED Status**:
 - Implementation Phase 1 complete ✅
-- Testing Phase 2 not yet started 🔄
-- Awaiting code review before final approval
+- Testing Phase 2 BLOCKED 🚫 on CEL-4 (Core MVP Framework)
+- Phase 2 requires: Jest testing framework, Express/Fastify app structure, staging deployment pipeline
 
-**Blockers**: None - ready for review and testing
+**Blocker Details**:
+- **Blocked by**: CEL-4 (Core MVP Framework)
+- **Requirements**: Jest testing framework setup, Express/Fastify application structure, staging deployment pipeline
+- **Impact**: Cannot begin Phase 2 (testing, OpenAPI docs, performance testing) until CEL-4 delivers core framework
+- **Severity**: Phase 1 is production-ready, Phase 2 is paused
 
-**Recommended Next Action**: 
+**Recommended Next Action** (Post-CEL-4 Delivery):
 1. Code review of implementation
 2. Database migration validation
-3. Begin Phase 2 (testing)
+3. Integrate with CEL-4 framework
+4. Begin Phase 2 (testing)
 
 ---
 
