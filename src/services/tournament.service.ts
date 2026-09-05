@@ -372,20 +372,16 @@ export class TournamentService {
       RETURNING *;
     `;
 
-    try {
-      const result = await this.db.query(query, values);
-      const updated = this.mapToTournament(result.rows[0]);
-      await this.logAuditEvent(
-        tournamentId,
-        AuditAction.UPDATED,
-        context.userId,
-        this.extractChanges(request),
-        this.extractPreviousValues(current)
-      );
-      return updated;
-    } catch (error) {
-      throw error;
-    }
+    const result = await this.db.query(query, values);
+    const updated = this.mapToTournament(result.rows[0]);
+    await this.logAuditEvent(
+      tournamentId,
+      AuditAction.UPDATED,
+      context.userId,
+      this.extractChanges(request),
+      this.extractPreviousValues(current)
+    );
+    return updated;
   }
 
   /**

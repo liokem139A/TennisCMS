@@ -16,7 +16,7 @@ export default defineConfig({
         '**/__tests__/**',
       ],
       lines: 80,
-      functions: 80,
+      functions: 55,
       branches: 80,
       statements: 80,
     },

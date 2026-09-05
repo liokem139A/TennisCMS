@@ -1,10 +1,10 @@
-import { type Request, type Response, type NextFunction } from 'express';
+import { type RequestHandler } from 'express';
 import { v4 as uuidv4 } from 'uuid';
 import { logger } from '@/utils/logger';
 
-export const requestLogger = (req: Request, _res: Response, next: NextFunction): void => {
+export const requestLogger: RequestHandler = (req, _res, next): void => {
   const requestId = req.get('X-Request-ID') || uuidv4();
-  req.id = requestId;
+  (req as any).id = requestId;
 
   logger.info({
     requestId,
@@ -15,12 +15,3 @@ export const requestLogger = (req: Request, _res: Response, next: NextFunction):
 
   next();
 };
-
-// Extend Express Request type to include requestId
-declare global {
-  namespace Express {
-    interface Request {
-      id?: string;
-    }
-  }
-}
