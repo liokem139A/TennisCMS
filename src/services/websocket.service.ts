@@ -441,7 +441,7 @@ export class WebSocketService {
    */
   private checkRateLimit(matchId: string): boolean {
     const now = Date.now();
-    let bucket = this.rateLimits.get(matchId);
+    const bucket = this.rateLimits.get(matchId);
 
     if (!bucket || now > bucket.resetTime) {
       // New window
