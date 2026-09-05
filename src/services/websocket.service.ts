@@ -10,7 +10,7 @@
  * - Rate limiting per match (max 10 updates/second)
  */
 
-import { WebSocket, WebSocketServer } from 'ws';
+import { WebSocket, WebSocketServer, RawData } from 'ws';
 import { createServer } from 'http';
 import { logger } from '@/utils/logger';
 import {
@@ -20,6 +20,8 @@ import {
   SetCompletedMessage,
   MatchCompletedMessage,
   StatusChangedMessage,
+  MatchStartedMessage,
+  ErrorMessage,
   MatchStatus,
 } from '@/types/match.types';
 import type Redis from 'ioredis';
@@ -328,7 +330,7 @@ export class WebSocketService {
    * Broadcast match started
    */
   public broadcastMatchStarted(matchId: string): void {
-    const message = {
+    const message: MatchStartedMessage = {
       type: WebSocketEventType.MATCH_STARTED,
       data: {
         match_id: matchId,
@@ -423,7 +425,7 @@ export class WebSocketService {
    * Send error message to client
    */
   private sendError(ws: WebSocket, code: string, message: string): void {
-    const errorMessage = {
+    const errorMessage: ErrorMessage = {
       type: WebSocketEventType.ERROR,
       data: {
         code,

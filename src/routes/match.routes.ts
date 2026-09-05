@@ -59,10 +59,11 @@ const validatePagination = (
   const limit = Math.min(parseInt(req.query.limit as string) || 20, 100);
 
   if (page < 1) {
-    return _res.status(400).json({
+    _res.status(400).json({
       error: 'INVALID_PAGINATION',
       message: 'page must be >= 1',
     });
+    return;
   }
 
   (req as any).pagination = { page, limit } as PaginationOptions;
