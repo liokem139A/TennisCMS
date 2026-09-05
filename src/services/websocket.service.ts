@@ -123,7 +123,7 @@ export class WebSocketService {
     });
 
     // Handle messages from client
-    ws.on('message', (data: WebSocket.Data) => {
+    ws.on('message', (data: RawData) => {
       this.handleClientMessage(ws, data);
     });
 
@@ -143,7 +143,7 @@ export class WebSocketService {
    * Handle message from client
    * TODO: Implement client-to-server messages (e.g., ping/pong)
    */
-  private handleClientMessage(ws: WebSocket, data: WebSocket.Data): void {
+  private handleClientMessage(ws: WebSocket, data: RawData): void {
     try {
       const subscription = this.clients.get(ws);
       if (!subscription) return;
